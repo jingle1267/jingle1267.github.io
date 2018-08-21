@@ -112,21 +112,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/26/Mr.-Mao/</loc>
-    <lastmod>2018-06-21T07:09:59.040Z</lastmod>
-    <data>
-        <display>
-        <title>你可能不知道的毛主席</title>
-        <pubTime>2017-12-26T02:21:48.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2018/01/09/SiMaYi/</loc>
     <lastmod>2018-06-21T07:09:59.040Z</lastmod>
     <data>
@@ -139,6 +124,21 @@
              
               <breadCrumb title="历史人物" url="http://ihongqiqu.com/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2017/12/26/Mr.-Mao/</loc>
+    <lastmod>2018-06-21T07:09:59.040Z</lastmod>
+    <data>
+        <display>
+        <title>你可能不知道的毛主席</title>
+        <pubTime>2017-12-26T02:21:48.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
@@ -1246,12 +1246,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/29/facadepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>原型模式</title>
-        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
+        <title>外观模式</title>
+        <pubTime>2014-11-29T12:58:54.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1306,12 +1306,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/29/facadepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/24/abstractfactorypattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>外观模式</title>
-        <pubTime>2014-11-29T12:58:54.000Z</pubTime>
+        <title>抽象工厂</title>
+        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1326,12 +1326,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/24/abstractfactorypattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>抽象工厂</title>
-        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
+        <title>原型模式</title>
+        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1624,12 +1624,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
+    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-2 [译]</title>
-        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
+        <title>Android切图之不规则形状-3 [译]</title>
+        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
         
          
            
@@ -1657,12 +1657,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-2 [译]</title>
+        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
         
          
            
@@ -1708,12 +1708,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
+    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-3 [译]</title>
-        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
         
          
            
