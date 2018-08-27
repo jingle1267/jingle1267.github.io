@@ -5,7 +5,7 @@
     
   <url>
     <loc>http://ihongqiqu.com/2018/08/27/weixin-mini-app-api/</loc>
-    <lastmod>2018-08-27T06:24:21.964Z</lastmod>
+    <lastmod>2018-08-27T06:26:58.898Z</lastmod>
     <data>
         <display>
         <title>微信小程序API</title>
@@ -72,12 +72,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
+    <loc>http://ihongqiqu.com/2018/04/04/wx-mini-app-bug/</loc>
     <lastmod>2018-06-21T07:09:59.040Z</lastmod>
     <data>
         <display>
-        <title>微信小程序之页面模板</title>
-        <pubTime>2018-04-09T03:25:48.000Z</pubTime>
+        <title>微信小程序之坑</title>
+        <pubTime>2018-04-04T07:00:27.000Z</pubTime>
         
         <tag>微信小程序</tag>
          
@@ -145,12 +145,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/04/wx-mini-app-bug/</loc>
+    <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
     <lastmod>2018-06-21T07:09:59.040Z</lastmod>
     <data>
         <display>
-        <title>微信小程序之坑</title>
-        <pubTime>2018-04-04T07:00:27.000Z</pubTime>
+        <title>微信小程序之页面模板</title>
+        <pubTime>2018-04-09T03:25:48.000Z</pubTime>
         
         <tag>微信小程序</tag>
          
@@ -185,14 +185,14 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/09/lifecycle/</loc>
+    <loc>http://ihongqiqu.com/2017/12/14/Android-LiveData/</loc>
     <lastmod>2018-06-21T07:09:59.039Z</lastmod>
     <data>
         <display>
-        <title>Android Architecture Components之LifeCycle</title>
-        <pubTime>2017-12-09T08:13:44.000Z</pubTime>
+        <title>Android Architecture Components之LiveData</title>
+        <pubTime>2017-12-14T09:40:07.000Z</pubTime>
         
-        <tag>LifeCycle</tag>
+        <tag>LiveData</tag>
          
          
            
@@ -205,14 +205,14 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/14/Android-LiveData/</loc>
+    <loc>http://ihongqiqu.com/2017/12/09/lifecycle/</loc>
     <lastmod>2018-06-21T07:09:59.039Z</lastmod>
     <data>
         <display>
-        <title>Android Architecture Components之LiveData</title>
-        <pubTime>2017-12-14T09:40:07.000Z</pubTime>
+        <title>Android Architecture Components之LifeCycle</title>
+        <pubTime>2017-12-09T08:13:44.000Z</pubTime>
         
-        <tag>LiveData</tag>
+        <tag>LifeCycle</tag>
          
          
            
@@ -265,6 +265,23 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
+    <lastmod>2018-06-21T07:09:59.038Z</lastmod>
+    <data>
+        <display>
+        <title>MyBatis 快速上手</title>
+        <pubTime>2017-01-22T12:00:23.000Z</pubTime>
+        
+        <tag>MyBatis</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2017/01/13/android-wifi-hotspot/</loc>
     <lastmod>2018-06-21T07:09:59.038Z</lastmod>
     <data>
@@ -279,23 +296,6 @@
              
               <breadCrumb title="Android" url="http://ihongqiqu.com/categories/Android/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
-    <lastmod>2018-06-21T07:09:59.038Z</lastmod>
-    <data>
-        <display>
-        <title>MyBatis 快速上手</title>
-        <pubTime>2017-01-22T12:00:23.000Z</pubTime>
-        
-        <tag>MyBatis</tag>
-         
-         
-           
         </display>
     </data>
     </url>
@@ -876,12 +876,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/03/14/Android-DataBinding-Part-Two/</loc>
+    <loc>http://ihongqiqu.com/2016/03/18/Android-DataBinding-Part-Three/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
-        <title>DataBinding(中) - 事件绑定和数据更新</title>
-        <pubTime>2016-03-14T02:54:01.000Z</pubTime>
+        <title>DataBinding(下) - 表达式，IMPORT和INCLUDE</title>
+        <pubTime>2016-03-18T03:26:13.000Z</pubTime>
         
         <tag>Android DataBinding</tag>
          
@@ -914,12 +914,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/03/18/Android-DataBinding-Part-Three/</loc>
+    <loc>http://ihongqiqu.com/2016/03/14/Android-DataBinding-Part-Two/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
-        <title>DataBinding(下) - 表达式，IMPORT和INCLUDE</title>
-        <pubTime>2016-03-18T03:26:13.000Z</pubTime>
+        <title>DataBinding(中) - 事件绑定和数据更新</title>
+        <pubTime>2016-03-14T02:54:01.000Z</pubTime>
         
         <tag>Android DataBinding</tag>
          
@@ -1126,12 +1126,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/02/adapterpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>组合模式</title>
-        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
+        <title>适配器模式</title>
+        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1146,12 +1146,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/03/mementopattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>备忘录模式</title>
-        <pubTime>2014-12-03T13:19:26.000Z</pubTime>
+        <title>组合模式</title>
+        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1246,12 +1246,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/02/adapterpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/03/mementopattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>适配器模式</title>
-        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
+        <title>备忘录模式</title>
+        <pubTime>2014-12-03T13:19:26.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1266,12 +1266,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/28/templatemethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>原型模式</title>
-        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
+        <title>模板方法模式</title>
+        <pubTime>2014-11-28T13:57:22.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1366,12 +1366,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/28/templatemethodpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>模板方法模式</title>
-        <pubTime>2014-11-28T13:57:22.000Z</pubTime>
+        <title>原型模式</title>
+        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1386,12 +1386,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/20/design-pattern-decorator/</loc>
+    <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>装饰者模式</title>
-        <pubTime>2014-11-20T13:53:20.000Z</pubTime>
+        <title>工厂方法</title>
+        <pubTime>2014-11-21T13:51:42.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1463,12 +1463,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/20/design-pattern-decorator/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>工厂方法</title>
-        <pubTime>2014-11-21T13:51:42.000Z</pubTime>
+        <title>装饰者模式</title>
+        <pubTime>2014-11-20T13:53:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1579,6 +1579,21 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>输入1则输出0，输入0则输出1</title>
+        <pubTime>2014-09-25T14:22:17.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
@@ -1593,21 +1608,6 @@
              
               <breadCrumb title="Android打多渠道包" url="http://ihongqiqu.com/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/09/25/0-in-1-out-1-in-0-out/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>输入1则输出0，输入0则输出1</title>
-        <pubTime>2014-09-25T14:22:17.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
@@ -1644,12 +1644,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-2 [译]</title>
+        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
         
          
            
@@ -1677,12 +1677,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
+    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-3 [译]</title>
-        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
         
          
            
@@ -1728,12 +1728,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
+    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-2 [译]</title>
-        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
+        <title>Android切图之不规则形状-3 [译]</title>
+        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
         
          
            
