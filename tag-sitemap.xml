@@ -51,6 +51,13 @@
     </url>
 
     <url>
+        <loc>http://ihongqiqu.com/tags/monkeyrunner/</loc>
+        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://ihongqiqu.com/tags/Monkey/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -66,13 +73,6 @@
 
     <url>
         <loc>http://ihongqiqu.com/tags/%E6%9D%83%E9%99%90/</loc>
-        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ihongqiqu.com/tags/monkeyrunner/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -142,14 +142,14 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/%E8%A1%8C%E4%B8%BA%E9%9D%A2%E8%B0%88/</loc>
+        <loc>http://ihongqiqu.com/tags/cnblogs/</loc>
         <lastmod>2018-06-21T07:09:59.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/cnblogs/</loc>
+        <loc>http://ihongqiqu.com/tags/%E8%A1%8C%E4%B8%BA%E9%9D%A2%E8%B0%88/</loc>
         <lastmod>2018-06-21T07:09:59.036Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -240,14 +240,14 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/LiveData/</loc>
+        <loc>http://ihongqiqu.com/tags/%E5%BC%80%E6%BA%90%E5%BA%93/</loc>
         <lastmod>2018-06-21T07:09:59.039Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/%E5%BC%80%E6%BA%90%E5%BA%93/</loc>
+        <loc>http://ihongqiqu.com/tags/LiveData/</loc>
         <lastmod>2018-06-21T07:09:59.039Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -270,6 +270,13 @@
     <url>
         <loc>http://ihongqiqu.com/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8FAPI/</loc>
         <lastmod>2018-08-27T06:28:23.269Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/tags/webpack/</loc>
+        <lastmod>2018-11-13T06:24:50.422Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

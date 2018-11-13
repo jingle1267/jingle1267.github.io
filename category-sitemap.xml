@@ -148,7 +148,14 @@
 
     <url>
         <loc>http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-        <lastmod>2018-08-27T06:28:23.269Z</lastmod>
+        <lastmod>2018-09-20T03:29:31.480Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/categories/webpack/</loc>
+        <lastmod>2018-11-13T06:24:50.422Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
