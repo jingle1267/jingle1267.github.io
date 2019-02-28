@@ -4,24 +4,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2019/02/01/Effective-JavaScript/</loc>
-    <lastmod>2019-02-01T16:33:50.884Z</lastmod>
-    <data>
-        <display>
-        <title>Effective JavaScript 提高代码质量的68个有效方法</title>
-        <pubTime>2019-02-01T15:20:01.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="JavaScript" url="http://ihongqiqu.com/categories/JavaScript/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2018/04/17/git-flow/</loc>
     <lastmod>2019-02-01T16:33:50.884Z</lastmod>
     <data>
@@ -35,6 +17,24 @@
            
              
               <breadCrumb title="Git" url="http://ihongqiqu.com/categories/Git/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2019/02/01/Effective-JavaScript/</loc>
+    <lastmod>2019-02-01T16:33:50.884Z</lastmod>
+    <data>
+        <display>
+        <title>Effective JavaScript 提高代码质量的68个有效方法</title>
+        <pubTime>2019-02-01T15:20:01.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="JavaScript" url="http://ihongqiqu.com/categories/JavaScript/"/>
           
         </display>
     </data>
@@ -151,19 +151,17 @@
     
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
+    <loc>http://ihongqiqu.com/2018/01/09/SiMaYi/</loc>
     <lastmod>2018-06-21T07:09:59.040Z</lastmod>
     <data>
         <display>
-        <title>微信小程序之页面模板</title>
-        <pubTime>2018-04-09T03:25:48.000Z</pubTime>
+        <title>司马懿人物关系</title>
+        <pubTime>2018-01-09T09:39:35.000Z</pubTime>
         
-        <tag>微信小程序</tag>
-         
          
            
              
-              <breadCrumb title="小程序" url="http://ihongqiqu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="历史人物" url="http://ihongqiqu.com/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
           
         </display>
     </data>
@@ -189,32 +187,19 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/26/Mr.-Mao/</loc>
+    <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
     <lastmod>2018-06-21T07:09:59.040Z</lastmod>
     <data>
         <display>
-        <title>你可能不知道的毛主席</title>
-        <pubTime>2017-12-26T02:21:48.000Z</pubTime>
+        <title>微信小程序之页面模板</title>
+        <pubTime>2018-04-09T03:25:48.000Z</pubTime>
         
+        <tag>微信小程序</tag>
          
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2018/01/09/SiMaYi/</loc>
-    <lastmod>2018-06-21T07:09:59.040Z</lastmod>
-    <data>
-        <display>
-        <title>司马懿人物关系</title>
-        <pubTime>2018-01-09T09:39:35.000Z</pubTime>
-        
          
            
              
-              <breadCrumb title="历史人物" url="http://ihongqiqu.com/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
+              <breadCrumb title="小程序" url="http://ihongqiqu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -256,6 +241,21 @@
              
               <breadCrumb title="小程序" url="http://ihongqiqu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2017/12/26/Mr.-Mao/</loc>
+    <lastmod>2018-06-21T07:09:59.040Z</lastmod>
+    <data>
+        <display>
+        <title>你可能不知道的毛主席</title>
+        <pubTime>2017-12-26T02:21:48.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
@@ -362,23 +362,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
-    <lastmod>2018-06-21T07:09:59.038Z</lastmod>
-    <data>
-        <display>
-        <title>MyBatis 快速上手</title>
-        <pubTime>2017-01-22T12:00:23.000Z</pubTime>
-        
-        <tag>MyBatis</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2017/03/11/elasticsearch-sort-nested/</loc>
     <lastmod>2018-06-21T07:09:59.038Z</lastmod>
     <data>
@@ -393,6 +376,23 @@
              
               <breadCrumb title="ElasticSearch" url="http://ihongqiqu.com/categories/ElasticSearch/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
+    <lastmod>2018-06-21T07:09:59.038Z</lastmod>
+    <data>
+        <display>
+        <title>MyBatis 快速上手</title>
+        <pubTime>2017-01-22T12:00:23.000Z</pubTime>
+        
+        <tag>MyBatis</tag>
+         
+         
+           
         </display>
     </data>
     </url>
@@ -459,6 +459,26 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2016/12/26/AOP-JDK/</loc>
+    <lastmod>2018-06-21T07:09:59.037Z</lastmod>
+    <data>
+        <display>
+        <title>AOP JDK动态代理</title>
+        <pubTime>2016-12-26T02:01:41.000Z</pubTime>
+        
+        <tag>AOP</tag>
+         
+         
+           
+             
+              <breadCrumb title="AOP" url="http://ihongqiqu.com/categories/AOP/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2016/11/07/web-crawler-2/</loc>
     <lastmod>2018-06-21T07:09:59.037Z</lastmod>
     <data>
@@ -472,26 +492,6 @@
            
              
               <breadCrumb title="网络爬虫" url="http://ihongqiqu.com/categories/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/11/24/repeat-sql-data/</loc>
-    <lastmod>2018-06-21T07:09:59.037Z</lastmod>
-    <data>
-        <display>
-        <title>SQL重复记录查询和删除方法</title>
-        <pubTime>2016-11-24T04:54:44.000Z</pubTime>
-        
-        <tag>SQL</tag>
-         
-         
-           
-             
-              <breadCrumb title="SQL" url="http://ihongqiqu.com/categories/SQL/"/>
           
         </display>
     </data>
@@ -519,46 +519,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/12/26/AOP-JDK/</loc>
-    <lastmod>2018-06-21T07:09:59.037Z</lastmod>
-    <data>
-        <display>
-        <title>AOP JDK动态代理</title>
-        <pubTime>2016-12-26T02:01:41.000Z</pubTime>
-        
-        <tag>AOP</tag>
-         
-         
-           
-             
-              <breadCrumb title="AOP" url="http://ihongqiqu.com/categories/AOP/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/11/09/hexo-add-widget/</loc>
-    <lastmod>2018-06-21T07:09:59.037Z</lastmod>
-    <data>
-        <display>
-        <title>Hexo 自定义 widget</title>
-        <pubTime>2016-11-09T09:29:01.000Z</pubTime>
-        
-        <tag>hexo</tag>
-         
-         
-           
-             
-              <breadCrumb title="hexo" url="http://ihongqiqu.com/categories/hexo/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2016/12/20/Android-Things/</loc>
     <lastmod>2018-06-21T07:09:59.037Z</lastmod>
     <data>
@@ -579,19 +539,39 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/10/03/collect-requirements/</loc>
-    <lastmod>2018-06-21T07:09:59.036Z</lastmod>
+    <loc>http://ihongqiqu.com/2016/11/24/repeat-sql-data/</loc>
+    <lastmod>2018-06-21T07:09:59.037Z</lastmod>
     <data>
         <display>
-        <title>收集需求的方法和工具</title>
-        <pubTime>2016-10-03T03:13:39.000Z</pubTime>
+        <title>SQL重复记录查询和删除方法</title>
+        <pubTime>2016-11-24T04:54:44.000Z</pubTime>
         
-        <tag>收集需求</tag>
+        <tag>SQL</tag>
          
          
            
              
-              <breadCrumb title="需求" url="http://ihongqiqu.com/categories/%E9%9C%80%E6%B1%82/"/>
+              <breadCrumb title="SQL" url="http://ihongqiqu.com/categories/SQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2016/11/09/hexo-add-widget/</loc>
+    <lastmod>2018-06-21T07:09:59.037Z</lastmod>
+    <data>
+        <display>
+        <title>Hexo 自定义 widget</title>
+        <pubTime>2016-11-09T09:29:01.000Z</pubTime>
+        
+        <tag>hexo</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://ihongqiqu.com/categories/hexo/"/>
           
         </display>
     </data>
@@ -707,79 +687,19 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/19/Flyweight-Pattern/</loc>
-    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
+    <loc>http://ihongqiqu.com/2016/10/03/collect-requirements/</loc>
+    <lastmod>2018-06-21T07:09:59.036Z</lastmod>
     <data>
         <display>
-        <title>享元模式</title>
-        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
+        <title>收集需求的方法和工具</title>
+        <pubTime>2016-10-03T03:13:39.000Z</pubTime>
         
-        <tag>设计模式</tag>
+        <tag>收集需求</tag>
          
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
-    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
-    <data>
-        <display>
-        <title>中介者模式</title>
-        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/09/14/Interpreter-Pattern/</loc>
-    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
-    <data>
-        <display>
-        <title>解释器模式</title>
-        <pubTime>2016-09-14T01:36:32.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/09/20/Visitor-Pattern/</loc>
-    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
-    <data>
-        <display>
-        <title>访问者模式</title>
-        <pubTime>2016-09-20T06:33:09.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="需求" url="http://ihongqiqu.com/categories/%E9%9C%80%E6%B1%82/"/>
           
         </display>
     </data>
@@ -821,57 +741,72 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/03/24/Android-Studio-Live-Template/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <loc>http://ihongqiqu.com/2016/09/20/Visitor-Pattern/</loc>
+    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>Live template</title>
-        <pubTime>2016-03-24T12:07:51.000Z</pubTime>
+        <title>访问者模式</title>
+        <pubTime>2016-09-20T06:33:09.000Z</pubTime>
         
+        <tag>设计模式</tag>
+         
          
            
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/04/06/Android-N-Multi-Window/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <loc>http://ihongqiqu.com/2016/09/19/Flyweight-Pattern/</loc>
+    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>Android N 支持多窗口的5个建议 [译]</title>
-        <pubTime>2016-04-06T13:22:22.000Z</pubTime>
+        <title>享元模式</title>
+        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
         
+        <tag>设计模式</tag>
+         
          
            
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <loc>http://ihongqiqu.com/2016/09/14/Interpreter-Pattern/</loc>
+    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>科学上网之 Host 篇</title>
-        <pubTime>2016-05-06T06:25:01.000Z</pubTime>
+        <title>解释器模式</title>
+        <pubTime>2016-09-14T01:36:32.000Z</pubTime>
         
+        <tag>设计模式</tag>
+         
          
            
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/13/Command-Design-Pattern/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
+    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>命令模式</title>
-        <pubTime>2016-09-13T01:44:15.000Z</pubTime>
+        <title>中介者模式</title>
+        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -901,6 +836,73 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2016/09/13/Command-Design-Pattern/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>命令模式</title>
+        <pubTime>2016-09-13T01:44:15.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>科学上网之 Host 篇</title>
+        <pubTime>2016-05-06T06:25:01.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>说服他人的技巧</title>
+        <pubTime>2016-04-12T08:14:27.000Z</pubTime>
+        
+        <tag>说服他人</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2016/03/24/Android-Studio-Live-Template/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>Live template</title>
+        <pubTime>2016-03-24T12:07:51.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2016/09/13/Chain-of-Responsibility/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
@@ -921,15 +923,13 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
+    <loc>http://ihongqiqu.com/2016/04/06/Android-N-Multi-Window/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
-        <title>说服他人的技巧</title>
-        <pubTime>2016-04-12T08:14:27.000Z</pubTime>
+        <title>Android N 支持多窗口的5个建议 [译]</title>
+        <pubTime>2016-04-06T13:22:22.000Z</pubTime>
         
-        <tag>说服他人</tag>
-         
          
            
         </display>
@@ -993,6 +993,24 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2016/01/08/Android-Test-Framework-comparison/</loc>
+    <lastmod>2018-06-21T07:09:59.033Z</lastmod>
+    <data>
+        <display>
+        <title>5个最佳的Android测试框架[转]</title>
+        <pubTime>2016-01-08T02:31:16.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2016/03/18/Android-DataBinding-Part-Three/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
@@ -1013,52 +1031,31 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/01/08/Android-Test-Framework-comparison/</loc>
-    <lastmod>2018-06-21T07:09:59.033Z</lastmod>
+    <loc>http://ihongqiqu.com/2015/12/23/Android-6-permission/</loc>
+    <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>5个最佳的Android测试框架[转]</title>
-        <pubTime>2016-01-08T02:31:16.000Z</pubTime>
+        <title>Android 6 permission</title>
+        <pubTime>2015-12-23T06:26:03.000Z</pubTime>
         
+        <tag>权限</tag>
+         
          
            
-             
-              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
-          
         </display>
     </data>
     </url>
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
+    <loc>http://ihongqiqu.com/2015/12/24/Android-Monkey-Test/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>Android monkeyrunner</title>
-        <pubTime>2015-12-25T06:41:29.000Z</pubTime>
+        <title>Android Monkey Test</title>
+        <pubTime>2015-12-24T07:40:19.000Z</pubTime>
         
-        <tag>monkeyrunner</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/01/07/android-instrumentation/</loc>
-    <lastmod>2018-06-21T07:09:59.032Z</lastmod>
-    <data>
-        <display>
-        <title>Android instrumentation</title>
-        <pubTime>2016-01-07T10:16:20.000Z</pubTime>
-        
-        <tag>instrumentation</tag>
+        <tag>Monkey</tag>
          
          
            
@@ -1091,14 +1088,14 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/24/Android-Monkey-Test/</loc>
+    <loc>http://ihongqiqu.com/2016/01/07/android-instrumentation/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>Android Monkey Test</title>
-        <pubTime>2015-12-24T07:40:19.000Z</pubTime>
+        <title>Android instrumentation</title>
+        <pubTime>2016-01-07T10:16:20.000Z</pubTime>
         
-        <tag>Monkey</tag>
+        <tag>instrumentation</tag>
          
          
            
@@ -1111,17 +1108,20 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/23/Android-6-permission/</loc>
+    <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>Android 6 permission</title>
-        <pubTime>2015-12-23T06:26:03.000Z</pubTime>
+        <title>Android monkeyrunner</title>
+        <pubTime>2015-12-25T06:41:29.000Z</pubTime>
         
-        <tag>权限</tag>
+        <tag>monkeyrunner</tag>
          
          
            
+             
+              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
+          
         </display>
     </data>
     </url>
@@ -1243,12 +1243,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>迭代器模式</title>
-        <pubTime>2014-12-05T15:08:13.000Z</pubTime>
+        <title>组合模式</title>
+        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1283,12 +1283,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/01/observerpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>组合模式</title>
-        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
+        <title>观察者模式</title>
+        <pubTime>2014-12-01T10:03:15.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1303,12 +1303,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/01/observerpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>观察者模式</title>
-        <pubTime>2014-12-01T10:03:15.000Z</pubTime>
+        <title>迭代器模式</title>
+        <pubTime>2014-12-05T15:08:13.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1423,6 +1423,26 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2014/11/24/abstractfactorypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+    <data>
+        <display>
+        <title>抽象工厂</title>
+        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2014/11/29/facadepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
@@ -1463,52 +1483,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/24/abstractfactorypattern/</loc>
-    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-    <data>
-        <display>
-        <title>抽象工厂</title>
-        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/20/design-pattern-decorator/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>工厂方法</title>
-        <pubTime>2014-11-21T13:51:42.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    <data>
-        <display>
-        <title>简单工厂</title>
-        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        <title>装饰者模式</title>
+        <pubTime>2014-11-20T13:53:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1543,6 +1523,26 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    <data>
+        <display>
+        <title>简单工厂</title>
+        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2014/11/02/git-error-handle/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
@@ -1560,12 +1560,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/20/design-pattern-decorator/</loc>
+    <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>装饰者模式</title>
-        <pubTime>2014-11-20T13:53:20.000Z</pubTime>
+        <title>工厂方法</title>
+        <pubTime>2014-11-21T13:51:42.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1574,21 +1574,6 @@
              
               <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
-    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
-    <data>
-        <display>
-        <title>Eclipse转移到IntelliJ IDEA</title>
-        <pubTime>2014-10-25T09:19:14.000Z</pubTime>
-        
-         
-           
         </display>
     </data>
     </url>
@@ -1629,6 +1614,21 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
+    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
+    <data>
+        <display>
+        <title>Eclipse转移到IntelliJ IDEA</title>
+        <pubTime>2014-10-25T09:19:14.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2014/10/15/butter-knife-injection/</loc>
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     <data>
@@ -1644,15 +1644,28 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
+    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>Android UI优化策略</title>
-        <pubTime>2014-10-15T09:57:53.000Z</pubTime>
+        <title>Android应用程序架构[译]</title>
+        <pubTime>2014-09-12T15:06:53.000Z</pubTime>
         
-        <tag>Android优化</tag>
          
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/10/15/android-find-view/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>android View Finder[转]</title>
+        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
+        
          
            
         </display>
@@ -1696,36 +1709,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>Android应用程序架构[译]</title>
-        <pubTime>2014-09-12T15:06:53.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/10/15/android-find-view/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>android View Finder[转]</title>
-        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2014/09/23/octopress-post-article/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
@@ -1741,12 +1724,29 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
+    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>Android UI优化策略</title>
+        <pubTime>2014-10-15T09:57:53.000Z</pubTime>
+        
+        <tag>Android优化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-3 [译]</title>
-        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
         
          
            
@@ -1789,24 +1789,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/08/02/irregular-shapes-part-4/</loc>
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    <data>
-        <display>
-        <title>Android切图之不规则形状-4 [译]</title>
-        <pubTime>2014-08-02T05:01:50.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
@@ -1825,12 +1807,30 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-3 [译]</title>
+        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/08/02/irregular-shapes-part-4/</loc>
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    <data>
+        <display>
+        <title>Android切图之不规则形状-4 [译]</title>
+        <pubTime>2014-08-02T05:01:50.000Z</pubTime>
         
          
            
