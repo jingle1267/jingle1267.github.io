@@ -55,7 +55,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
+        <loc>http://ihongqiqu.com/2018/04/13/caocao/</loc>
         <lastmod>2019-02-28T08:35:04.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -63,7 +63,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2018/04/13/caocao/</loc>
+        <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
         <lastmod>2019-02-28T08:35:04.584Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -135,7 +135,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2017/06/14/BottomNavigationView/</loc>
+        <loc>http://ihongqiqu.com/2017/10/16/RxJava-Hello-World/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -143,7 +143,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2017/10/16/RxJava-Hello-World/</loc>
+        <loc>http://ihongqiqu.com/2017/06/14/BottomNavigationView/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -167,7 +167,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2017/01/09/react-hello-world/</loc>
+        <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
         <lastmod>2019-02-28T08:35:04.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -183,7 +183,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
+        <loc>http://ihongqiqu.com/2017/01/09/react-hello-world/</loc>
         <lastmod>2019-02-28T08:35:04.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -207,6 +207,14 @@
     </url>
 
     <url>
+        <loc>http://ihongqiqu.com/2016/12/24/aop/</loc>
+        <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://ihongqiqu.com/2016/11/09/hexo-add-widget/</loc>
         <lastmod>2019-02-28T08:35:04.579Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -215,8 +223,8 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/12/24/aop/</loc>
-        <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+        <loc>http://ihongqiqu.com/2016/10/21/DIY-cnblogs-styles/</loc>
+        <lastmod>2019-02-28T08:35:04.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -239,24 +247,8 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/10/21/DIY-cnblogs-styles/</loc>
-        <lastmod>2019-02-28T08:35:04.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://ihongqiqu.com/2016/11/07/web-crawler-2/</loc>
         <lastmod>2019-02-28T08:35:04.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://ihongqiqu.com/2016/10/06/psychologie-des-foules/</loc>
-        <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -272,6 +264,14 @@
 
     <url>
         <loc>http://ihongqiqu.com/2016/10/03/collect-requirements/</loc>
+        <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/2016/10/06/psychologie-des-foules/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -319,7 +319,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/09/14/Interpreter-Pattern/</loc>
+        <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
         <lastmod>2018-06-21T07:09:59.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -327,7 +327,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
+        <loc>http://ihongqiqu.com/2016/09/14/Interpreter-Pattern/</loc>
         <lastmod>2018-06-21T07:09:59.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -359,7 +359,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
+        <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
         <lastmod>2018-06-21T07:09:59.034Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -367,7 +367,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
+        <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
         <lastmod>2018-06-21T07:09:59.034Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -407,7 +407,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/01/14/android-project-style/</loc>
+        <loc>http://ihongqiqu.com/2016/03/13/Android-DataBinding-Part-One/</loc>
         <lastmod>2018-06-21T07:09:59.033Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -415,7 +415,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2016/03/13/Android-DataBinding-Part-One/</loc>
+        <loc>http://ihongqiqu.com/2016/01/14/android-project-style/</loc>
         <lastmod>2018-06-21T07:09:59.033Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -455,6 +455,14 @@
     </url>
 
     <url>
+        <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
+        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://ihongqiqu.com/2015/12/23/Android-6-permission/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -464,14 +472,6 @@
 
     <url>
         <loc>http://ihongqiqu.com/2015/12/24/Android-Monkey-Test/</loc>
-        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -495,7 +495,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2015/05/18/make-packages/</loc>
+        <loc>http://ihongqiqu.com/2015/12/03/html-call-native-app/</loc>
         <lastmod>2018-06-21T07:09:59.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -503,7 +503,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2015/12/03/html-call-native-app/</loc>
+        <loc>http://ihongqiqu.com/2015/05/18/make-packages/</loc>
         <lastmod>2018-06-21T07:09:59.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -543,7 +543,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/12/03/mementopattern/</loc>
+        <loc>http://ihongqiqu.com/2014/12/02/adapterpattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -551,7 +551,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/12/02/adapterpattern/</loc>
+        <loc>http://ihongqiqu.com/2014/12/03/mementopattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -583,7 +583,15 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/11/25/proxypattern/</loc>
+        <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
+        <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -599,7 +607,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
+        <loc>http://ihongqiqu.com/2014/11/25/proxypattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -623,14 +631,6 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
-        <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://ihongqiqu.com/2014/11/02/git-error-handle/</loc>
         <lastmod>2018-06-21T07:09:59.028Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -639,7 +639,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
+        <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
         <lastmod>2018-06-21T07:09:59.028Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -647,7 +647,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
+        <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
         <lastmod>2018-06-21T07:09:59.028Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -703,14 +703,6 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
-        <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://ihongqiqu.com/2014/09/23/octopress-post-article/</loc>
         <lastmod>2018-06-21T07:09:59.026Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -719,7 +711,23 @@
     </url>
 
     <url>
+        <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
+        <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
+        <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
         <lastmod>2018-06-21T07:09:59.026Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -743,22 +751,6 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
-        <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
-        <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://ihongqiqu.com/2014/07/22/adb-install-to-mutiple-devices/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -776,6 +768,14 @@
 
     <url>
         <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
+        <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
