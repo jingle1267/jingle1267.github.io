@@ -16,14 +16,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/s/index.html</loc>
+    <loc>http://ihongqiqu.com/shua/baiduihongqiqu.html</loc>
     
     <lastmod>2019-02-28T08:35:04.621Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/shua/baiduihongqiqu.html</loc>
+    <loc>http://ihongqiqu.com/s/index.html</loc>
     
     <lastmod>2019-02-28T08:35:04.621Z</lastmod>
     
@@ -128,14 +128,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2017/12/09/lifecycle/</loc>
+    <loc>http://ihongqiqu.com/2017/12/14/Android-LiveData/</loc>
     
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2017/12/14/Android-LiveData/</loc>
+    <loc>http://ihongqiqu.com/2017/12/09/lifecycle/</loc>
     
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     
@@ -184,6 +184,13 @@
   </url>
   
   <url>
+    <loc>http://ihongqiqu.com/2017/01/13/android-wifi-hotspot/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ihongqiqu.com/2016/12/26/AOP-JDK/</loc>
     
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
@@ -192,13 +199,6 @@
   
   <url>
     <loc>http://ihongqiqu.com/2017/01/05/android-webview-component/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ihongqiqu.com/2017/01/13/android-wifi-hotspot/</loc>
     
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     
@@ -219,14 +219,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/11/24/repeat-sql-data/</loc>
+    <loc>http://ihongqiqu.com/2016/11/09/hexo-add-widget/</loc>
     
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/11/09/hexo-add-widget/</loc>
+    <loc>http://ihongqiqu.com/2016/11/24/repeat-sql-data/</loc>
     
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
     
@@ -240,14 +240,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/11/01/behavior-interview/</loc>
+    <loc>http://ihongqiqu.com/2016/10/26/web-crawler/</loc>
     
     <lastmod>2019-02-28T08:35:04.578Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/10/26/web-crawler/</loc>
+    <loc>http://ihongqiqu.com/2016/11/01/behavior-interview/</loc>
     
     <lastmod>2019-02-28T08:35:04.578Z</lastmod>
     
@@ -345,13 +345,6 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://ihongqiqu.com/2016/09/19/Flyweight-Pattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
@@ -360,6 +353,13 @@
   
   <url>
     <loc>http://ihongqiqu.com/2016/09/14/Interpreter-Pattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     
@@ -380,14 +380,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
+    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
+    <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
@@ -527,7 +527,7 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -548,7 +548,7 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -569,14 +569,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -646,14 +646,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/10/19/inversion-of-control/</loc>
+    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
     
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
+    <loc>http://ihongqiqu.com/2014/10/19/inversion-of-control/</loc>
     
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     
@@ -674,27 +674,6 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://ihongqiqu.com/2014/10/15/android-find-view/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
@@ -709,6 +688,27 @@
   </url>
   
   <url>
+    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://ihongqiqu.com/2014/09/25/0-in-1-out-1-in-0-out/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
@@ -716,7 +716,7 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
+    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
@@ -744,14 +744,14 @@
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://ihongqiqu.com/2014/07/22/adb-install-to-mutiple-devices/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
