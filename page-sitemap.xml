@@ -8,42 +8,49 @@
     
     <url>
         <loc>http://ihongqiqu.com/test/safari-reaper.html</loc>
-        <lastmod>2018-09-18T01:35:22.903Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://ihongqiqu.com/shua/baiduihongqiqu1.html</loc>
-        <lastmod>2018-06-21T07:09:59.093Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://ihongqiqu.com/shua/baiduihongqiqu2.html</loc>
-        <lastmod>2018-06-21T07:09:59.093Z</lastmod>
+        <lastmod>2019-02-28T08:35:04.624Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://ihongqiqu.com/s/</loc>
-        <lastmod>2018-06-21T07:09:59.092Z</lastmod>
+        <lastmod>2019-02-28T08:35:04.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://ihongqiqu.com/shua/baiduihongqiqu1.html</loc>
+        <lastmod>2019-02-28T08:35:04.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://ihongqiqu.com/shua/baiduihongqiqu.html</loc>
-        <lastmod>2018-06-21T07:09:59.092Z</lastmod>
+        <lastmod>2019-02-28T08:35:04.621Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://ihongqiqu.com/shua/baiduihongqiqu2.html</loc>
+        <lastmod>2019-02-28T08:35:04.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
         <loc>http://ihongqiqu.com/google5b92c7ab5f781bf2.html</loc>
-        <lastmod>2018-06-21T07:09:59.042Z</lastmod>
+        <lastmod>2019-02-28T08:35:04.590Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>http://ihongqiqu.com/404.html</loc>
+        <lastmod>2019-02-28T08:35:04.571Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -65,13 +72,6 @@
     <url>
         <loc>http://ihongqiqu.com/README.html</loc>
         <lastmod>2018-06-21T07:09:59.024Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://ihongqiqu.com/404.html</loc>
-        <lastmod>2018-06-21T07:09:59.022Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
