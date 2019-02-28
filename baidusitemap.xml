@@ -805,12 +805,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/19/Flyweight-Pattern/</loc>
+    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>享元模式</title>
-        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
+        <title>中介者模式</title>
+        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -825,12 +825,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
+    <loc>http://ihongqiqu.com/2016/09/19/Flyweight-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>中介者模式</title>
-        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
+        <title>享元模式</title>
+        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -930,6 +930,21 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>科学上网之 Host 篇</title>
+        <pubTime>2016-05-06T06:25:01.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
@@ -939,21 +954,6 @@
         
         <tag>说服他人</tag>
          
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
-    <data>
-        <display>
-        <title>科学上网之 Host 篇</title>
-        <pubTime>2016-05-06T06:25:01.000Z</pubTime>
-        
          
            
         </display>
@@ -1072,14 +1072,14 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/24/Android-Monkey-Test/</loc>
+    <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>Android Monkey Test</title>
-        <pubTime>2015-12-24T07:40:19.000Z</pubTime>
+        <title>Android monkeyrunner</title>
+        <pubTime>2015-12-25T06:41:29.000Z</pubTime>
         
-        <tag>Monkey</tag>
+        <tag>monkeyrunner</tag>
          
          
            
@@ -1112,14 +1112,14 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
+    <loc>http://ihongqiqu.com/2015/12/24/Android-Monkey-Test/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>Android monkeyrunner</title>
-        <pubTime>2015-12-25T06:41:29.000Z</pubTime>
+        <title>Android Monkey Test</title>
+        <pubTime>2015-12-24T07:40:19.000Z</pubTime>
         
-        <tag>monkeyrunner</tag>
+        <tag>Monkey</tag>
          
          
            
@@ -1307,12 +1307,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>组合模式</title>
-        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
+        <title>迭代器模式</title>
+        <pubTime>2014-12-05T15:08:13.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1327,12 +1327,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
+    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>迭代器模式</title>
-        <pubTime>2014-12-05T15:08:13.000Z</pubTime>
+        <title>组合模式</title>
+        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1387,12 +1387,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>状态模式</title>
-        <pubTime>2014-11-26T13:16:26.000Z</pubTime>
+        <title>原型模式</title>
+        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1407,12 +1407,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
+    <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>原型模式</title>
-        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
+        <title>状态模式</title>
+        <pubTime>2014-11-26T13:16:26.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1507,6 +1507,46 @@
 
     
   <url>
+    <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    <data>
+        <display>
+        <title>简单工厂</title>
+        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/11/23/strategypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    <data>
+        <display>
+        <title>策略模式</title>
+        <pubTime>2014-11-22T16:13:49.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://ihongqiqu.com/2014/11/02/git-error-handle/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
@@ -1564,55 +1604,13 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    <data>
-        <display>
-        <title>简单工厂</title>
-        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/11/23/strategypattern/</loc>
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    <data>
-        <display>
-        <title>策略模式</title>
-        <pubTime>2014-11-22T16:13:49.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/10/19/inversion-of-control/</loc>
+    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     <data>
         <display>
-        <title>IOC原理</title>
-        <pubTime>2014-10-19T11:56:06.000Z</pubTime>
+        <title>Eclipse转移到IntelliJ IDEA</title>
+        <pubTime>2014-10-25T09:19:14.000Z</pubTime>
         
-        <tag>IOC</tag>
-         
          
            
         </display>
@@ -1638,12 +1636,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
+    <loc>http://ihongqiqu.com/2014/10/15/butter-knife-injection/</loc>
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     <data>
         <display>
-        <title>Eclipse转移到IntelliJ IDEA</title>
-        <pubTime>2014-10-25T09:19:14.000Z</pubTime>
+        <title>View注入框架之ButterKnife</title>
+        <pubTime>2014-10-14T16:49:07.000Z</pubTime>
         
          
            
@@ -1653,12 +1651,66 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/15/butter-knife-injection/</loc>
+    <loc>http://ihongqiqu.com/2014/10/19/inversion-of-control/</loc>
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     <data>
         <display>
-        <title>View注入框架之ButterKnife</title>
-        <pubTime>2014-10-14T16:49:07.000Z</pubTime>
+        <title>IOC原理</title>
+        <pubTime>2014-10-19T11:56:06.000Z</pubTime>
+        
+        <tag>IOC</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>Android快速打包[手动]</title>
+        <pubTime>2014-09-23T13:06:33.000Z</pubTime>
+        
+        <tag>打包</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android打多渠道包" url="http://ihongqiqu.com/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>Android UI优化策略</title>
+        <pubTime>2014-10-15T09:57:53.000Z</pubTime>
+        
+        <tag>Android优化</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://ihongqiqu.com/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>输入1则输出0，输入0则输出1</title>
+        <pubTime>2014-09-25T14:22:17.000Z</pubTime>
         
          
            
@@ -1683,38 +1735,6 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>Android应用程序架构[译]</title>
-        <pubTime>2014-09-12T15:06:53.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>Android UI优化策略</title>
-        <pubTime>2014-10-15T09:57:53.000Z</pubTime>
-        
-        <tag>Android优化</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://ihongqiqu.com/2014/10/15/android-find-view/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
@@ -1730,12 +1750,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>输入1则输出0，输入0则输出1</title>
-        <pubTime>2014-09-25T14:22:17.000Z</pubTime>
+        <title>Android应用程序架构[译]</title>
+        <pubTime>2014-09-12T15:06:53.000Z</pubTime>
         
          
            
@@ -1745,19 +1765,17 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android快速打包[手动]</title>
-        <pubTime>2014-09-23T13:06:33.000Z</pubTime>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
         
-        <tag>打包</tag>
-         
          
            
              
-              <breadCrumb title="Android打多渠道包" url="http://ihongqiqu.com/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
           
         </display>
     </data>
@@ -1798,12 +1816,12 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-2 [译]</title>
+        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
         
          
            
@@ -1822,24 +1840,6 @@
         <display>
         <title>Android切图之不规则形状-3 [译]</title>
         <pubTime>2014-07-29T14:03:31.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    <data>
-        <display>
-        <title>Android切图之不规则形状-2 [译]</title>
-        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
         
          
            

@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: 
-Disallow: /resume/
-Sitemap: http://ihongqiqu.com/sitemap.xml
-Sitemap: http://ihongqiqu.com/baidusitemap.xml
