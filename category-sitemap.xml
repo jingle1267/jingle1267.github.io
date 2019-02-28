@@ -70,14 +70,14 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/categories/SQL/</loc>
+        <loc>http://ihongqiqu.com/categories/AOP/</loc>
         <lastmod>2018-06-21T07:09:59.037Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/categories/AOP/</loc>
+        <loc>http://ihongqiqu.com/categories/SQL/</loc>
         <lastmod>2018-06-21T07:09:59.037Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -147,15 +147,29 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-        <lastmod>2018-09-20T03:29:31.480Z</lastmod>
+        <loc>http://ihongqiqu.com/categories/webpack/</loc>
+        <lastmod>2018-11-13T06:24:50.422Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/categories/webpack/</loc>
-        <lastmod>2018-11-13T06:24:50.422Z</lastmod>
+        <loc>http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+        <lastmod>2018-11-19T08:39:39.982Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/categories/Git/</loc>
+        <lastmod>2019-02-01T16:33:50.884Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/categories/JavaScript/</loc>
+        <lastmod>2019-02-01T16:33:50.884Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
