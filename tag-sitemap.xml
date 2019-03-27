@@ -51,13 +51,6 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/monkeyrunner/</loc>
-        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://ihongqiqu.com/tags/%E6%9D%83%E9%99%90/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -73,6 +66,13 @@
 
     <url>
         <loc>http://ihongqiqu.com/tags/instrumentation/</loc>
+        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/tags/monkeyrunner/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -114,6 +114,13 @@
     </url>
 
     <url>
+        <loc>http://ihongqiqu.com/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
+        <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
         <loc>http://ihongqiqu.com/tags/%E6%95%8F%E6%8D%B7/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -122,13 +129,6 @@
 
     <url>
         <loc>http://ihongqiqu.com/tags/%E6%94%B6%E9%9B%86%E9%9C%80%E6%B1%82/</loc>
-        <lastmod>2019-02-28T08:35:04.577Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://ihongqiqu.com/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -149,13 +149,6 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/cnblogs/</loc>
-        <lastmod>2019-02-28T08:35:04.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://ihongqiqu.com/tags/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/</loc>
         <lastmod>2019-02-28T08:35:04.578Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -164,6 +157,13 @@
 
     <url>
         <loc>http://ihongqiqu.com/tags/%E8%A1%8C%E4%B8%BA%E9%9D%A2%E8%B0%88/</loc>
+        <lastmod>2019-02-28T08:35:04.578Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://ihongqiqu.com/tags/cnblogs/</loc>
         <lastmod>2019-02-28T08:35:04.578Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -198,7 +198,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/MyBatis/</loc>
+        <loc>http://ihongqiqu.com/tags/React/</loc>
         <lastmod>2019-02-28T08:35:04.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -212,7 +212,7 @@
     </url>
 
     <url>
-        <loc>http://ihongqiqu.com/tags/React/</loc>
+        <loc>http://ihongqiqu.com/tags/MyBatis/</loc>
         <lastmod>2019-02-28T08:35:04.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
