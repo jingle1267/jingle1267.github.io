@@ -13,27 +13,7 @@
     
     
   <url>
-    <loc>http://ihongqiqu.com/2019/02/01/Effective-JavaScript/</loc>
-    <lastmod>2019-02-28T08:35:04.588Z</lastmod>
-    <data>
-        <display>
-        <title>Effective JavaScript 提高代码质量的68个有效方法</title>
-        <pubTime>2019-02-01T15:20:01.000Z</pubTime>
-        
-        <tag>JavaScript</tag>
-         
-         
-           
-             
-              <breadCrumb title="JavaScript" url="http://ihongqiqu.com/categories/JavaScript/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2019/02/07/Spring-MVC/</loc>
+    <loc>http://94275.cn/2019/02/07/Spring-MVC/</loc>
     <lastmod>2019-02-28T08:35:04.588Z</lastmod>
     <data>
         <display>
@@ -45,7 +25,7 @@
          
            
              
-              <breadCrumb title="Spring" url="http://ihongqiqu.com/categories/Spring/"/>
+              <breadCrumb title="Spring" url="http://94275.cn/categories/Spring/"/>
           
         </display>
     </data>
@@ -53,7 +33,27 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/11/13/webpack4-intro/</loc>
+    <loc>http://94275.cn/2019/02/01/Effective-JavaScript/</loc>
+    <lastmod>2019-02-28T08:35:04.588Z</lastmod>
+    <data>
+        <display>
+        <title>Effective JavaScript 提高代码质量的68个有效方法</title>
+        <pubTime>2019-02-01T15:20:01.000Z</pubTime>
+        
+        <tag>JavaScript</tag>
+         
+         
+           
+             
+              <breadCrumb title="JavaScript" url="http://94275.cn/categories/JavaScript/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2018/11/13/webpack4-intro/</loc>
     <lastmod>2019-02-28T08:35:04.587Z</lastmod>
     <data>
         <display>
@@ -65,7 +65,7 @@
          
            
              
-              <breadCrumb title="webpack" url="http://ihongqiqu.com/categories/webpack/"/>
+              <breadCrumb title="webpack" url="http://94275.cn/categories/webpack/"/>
           
         </display>
     </data>
@@ -73,7 +73,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/08/27/weixin-mini-app-api/</loc>
+    <loc>http://94275.cn/2018/08/27/weixin-mini-app-api/</loc>
     <lastmod>2019-02-28T08:35:04.586Z</lastmod>
     <data>
         <display>
@@ -85,7 +85,7 @@
          
            
              
-              <breadCrumb title="微信小程序" url="http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="微信小程序" url="http://94275.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -93,7 +93,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/09/20/wxmini-in-out/</loc>
+    <loc>http://94275.cn/2018/09/20/wxmini-in-out/</loc>
     <lastmod>2019-02-28T08:35:04.586Z</lastmod>
     <data>
         <display>
@@ -103,7 +103,7 @@
          
            
              
-              <breadCrumb title="微信小程序" url="http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="微信小程序" url="http://94275.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -111,7 +111,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/08/21/wexin-mini-component/</loc>
+    <loc>http://94275.cn/2018/08/21/wexin-mini-component/</loc>
     <lastmod>2019-02-28T08:35:04.585Z</lastmod>
     <data>
         <display>
@@ -123,7 +123,7 @@
          
            
              
-              <breadCrumb title="微信小程序" url="http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="微信小程序" url="http://94275.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -131,7 +131,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/09/wxminiapp-template/</loc>
+    <loc>http://94275.cn/2018/04/09/wxminiapp-template/</loc>
     <lastmod>2019-02-28T08:35:04.584Z</lastmod>
     <data>
         <display>
@@ -143,7 +143,7 @@
          
            
              
-              <breadCrumb title="小程序" url="http://ihongqiqu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="小程序" url="http://94275.cn/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -151,7 +151,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/13/caocao/</loc>
+    <loc>http://94275.cn/2018/04/13/caocao/</loc>
     <lastmod>2019-02-28T08:35:04.584Z</lastmod>
     <data>
         <display>
@@ -161,7 +161,7 @@
          
            
              
-              <breadCrumb title="历史人物" url="http://ihongqiqu.com/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
+              <breadCrumb title="历史人物" url="http://94275.cn/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
           
         </display>
     </data>
@@ -169,7 +169,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/26/Mr.-Mao/</loc>
+    <loc>http://94275.cn/2017/12/26/Mr.-Mao/</loc>
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     <data>
         <display>
@@ -184,7 +184,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/01/09/SiMaYi/</loc>
+    <loc>http://94275.cn/2018/01/09/SiMaYi/</loc>
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     <data>
         <display>
@@ -194,7 +194,7 @@
          
            
              
-              <breadCrumb title="历史人物" url="http://ihongqiqu.com/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
+              <breadCrumb title="历史人物" url="http://94275.cn/categories/%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9/"/>
           
         </display>
     </data>
@@ -202,7 +202,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/01/10/weixin-app/</loc>
+    <loc>http://94275.cn/2018/01/10/weixin-app/</loc>
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     <data>
         <display>
@@ -214,7 +214,7 @@
          
            
              
-              <breadCrumb title="小程序" url="http://ihongqiqu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="小程序" url="http://94275.cn/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -222,7 +222,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/04/wx-mini-app-bug/</loc>
+    <loc>http://94275.cn/2018/04/04/wx-mini-app-bug/</loc>
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     <data>
         <display>
@@ -234,7 +234,7 @@
          
            
              
-              <breadCrumb title="小程序" url="http://ihongqiqu.com/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="小程序" url="http://94275.cn/categories/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -242,7 +242,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/11/29/Common-Android-Open-Source-Project/</loc>
+    <loc>http://94275.cn/2017/11/29/Common-Android-Open-Source-Project/</loc>
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     <data>
         <display>
@@ -254,7 +254,7 @@
          
            
              
-              <breadCrumb title="开源库" url="http://ihongqiqu.com/categories/%E5%BC%80%E6%BA%90%E5%BA%93/"/>
+              <breadCrumb title="开源库" url="http://94275.cn/categories/%E5%BC%80%E6%BA%90%E5%BA%93/"/>
           
         </display>
     </data>
@@ -262,7 +262,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/09/lifecycle/</loc>
+    <loc>http://94275.cn/2017/12/09/lifecycle/</loc>
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     <data>
         <display>
@@ -274,7 +274,7 @@
          
            
              
-              <breadCrumb title="Android Architecture Components" url="http://ihongqiqu.com/categories/Android-Architecture-Components/"/>
+              <breadCrumb title="Android Architecture Components" url="http://94275.cn/categories/Android-Architecture-Components/"/>
           
         </display>
     </data>
@@ -282,7 +282,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/12/14/Android-LiveData/</loc>
+    <loc>http://94275.cn/2017/12/14/Android-LiveData/</loc>
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     <data>
         <display>
@@ -294,7 +294,7 @@
          
            
              
-              <breadCrumb title="Android Architecture Components" url="http://ihongqiqu.com/categories/Android-Architecture-Components/"/>
+              <breadCrumb title="Android Architecture Components" url="http://94275.cn/categories/Android-Architecture-Components/"/>
           
         </display>
     </data>
@@ -302,7 +302,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/03/11/elasticsearch-sort-nested/</loc>
+    <loc>http://94275.cn/2017/03/11/elasticsearch-sort-nested/</loc>
     <lastmod>2019-02-28T08:35:04.581Z</lastmod>
     <data>
         <display>
@@ -314,7 +314,7 @@
          
            
              
-              <breadCrumb title="ElasticSearch" url="http://ihongqiqu.com/categories/ElasticSearch/"/>
+              <breadCrumb title="ElasticSearch" url="http://94275.cn/categories/ElasticSearch/"/>
           
         </display>
     </data>
@@ -322,7 +322,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/06/14/BottomNavigationView/</loc>
+    <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
     <lastmod>2019-02-28T08:35:04.581Z</lastmod>
     <data>
         <display>
@@ -334,7 +334,7 @@
          
            
              
-              <breadCrumb title="Android" url="http://ihongqiqu.com/categories/Android/"/>
+              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
           
         </display>
     </data>
@@ -342,7 +342,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/10/16/RxJava-Hello-World/</loc>
+    <loc>http://94275.cn/2017/10/16/RxJava-Hello-World/</loc>
     <lastmod>2019-02-28T08:35:04.581Z</lastmod>
     <data>
         <display>
@@ -354,7 +354,7 @@
          
            
              
-              <breadCrumb title="RxJava" url="http://ihongqiqu.com/categories/RxJava/"/>
+              <breadCrumb title="RxJava" url="http://94275.cn/categories/RxJava/"/>
           
         </display>
     </data>
@@ -362,7 +362,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/12/26/AOP-JDK/</loc>
+    <loc>http://94275.cn/2016/12/26/AOP-JDK/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
         <display>
@@ -374,7 +374,7 @@
          
            
              
-              <breadCrumb title="AOP" url="http://ihongqiqu.com/categories/AOP/"/>
+              <breadCrumb title="AOP" url="http://94275.cn/categories/AOP/"/>
           
         </display>
     </data>
@@ -382,7 +382,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/01/05/android-webview-component/</loc>
+    <loc>http://94275.cn/2017/01/05/android-webview-component/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
         <display>
@@ -394,7 +394,7 @@
          
            
              
-              <breadCrumb title="Android" url="http://ihongqiqu.com/categories/Android/"/>
+              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
           
         </display>
     </data>
@@ -402,7 +402,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/01/09/react-hello-world/</loc>
+    <loc>http://94275.cn/2017/01/09/react-hello-world/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
         <display>
@@ -414,7 +414,7 @@
          
            
              
-              <breadCrumb title="React" url="http://ihongqiqu.com/categories/React/"/>
+              <breadCrumb title="React" url="http://94275.cn/categories/React/"/>
           
         </display>
     </data>
@@ -422,7 +422,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/01/13/android-wifi-hotspot/</loc>
+    <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
         <display>
@@ -434,7 +434,7 @@
          
            
              
-              <breadCrumb title="Android" url="http://ihongqiqu.com/categories/Android/"/>
+              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
           
         </display>
     </data>
@@ -442,7 +442,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2017/01/22/mybatis/</loc>
+    <loc>http://94275.cn/2017/01/22/mybatis/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
         <display>
@@ -459,47 +459,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/11/24/repeat-sql-data/</loc>
-    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
-    <data>
-        <display>
-        <title>SQL重复记录查询和删除方法</title>
-        <pubTime>2016-11-24T04:54:44.000Z</pubTime>
-        
-        <tag>SQL</tag>
-         
-         
-           
-             
-              <breadCrumb title="SQL" url="http://ihongqiqu.com/categories/SQL/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/12/20/Android-Things/</loc>
-    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
-    <data>
-        <display>
-        <title>Android Things [译]</title>
-        <pubTime>2016-12-20T11:30:45.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android" url="http://ihongqiqu.com/categories/Android/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/11/09/hexo-add-widget/</loc>
+    <loc>http://94275.cn/2016/11/09/hexo-add-widget/</loc>
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
     <data>
         <display>
@@ -511,7 +471,7 @@
          
            
              
-              <breadCrumb title="hexo" url="http://ihongqiqu.com/categories/hexo/"/>
+              <breadCrumb title="hexo" url="http://94275.cn/categories/hexo/"/>
           
         </display>
     </data>
@@ -519,7 +479,47 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/12/24/aop/</loc>
+    <loc>http://94275.cn/2016/11/24/repeat-sql-data/</loc>
+    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+    <data>
+        <display>
+        <title>SQL重复记录查询和删除方法</title>
+        <pubTime>2016-11-24T04:54:44.000Z</pubTime>
+        
+        <tag>SQL</tag>
+         
+         
+           
+             
+              <breadCrumb title="SQL" url="http://94275.cn/categories/SQL/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/12/20/Android-Things/</loc>
+    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+    <data>
+        <display>
+        <title>Android Things [译]</title>
+        <pubTime>2016-12-20T11:30:45.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/12/24/aop/</loc>
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
     <data>
         <display>
@@ -531,7 +531,7 @@
          
            
              
-              <breadCrumb title="AOP" url="http://ihongqiqu.com/categories/AOP/"/>
+              <breadCrumb title="AOP" url="http://94275.cn/categories/AOP/"/>
           
         </display>
     </data>
@@ -539,44 +539,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/10/26/web-crawler/</loc>
-    <lastmod>2019-02-28T08:35:04.578Z</lastmod>
-    <data>
-        <display>
-        <title>初识网络爬虫</title>
-        <pubTime>2016-10-26T15:04:09.000Z</pubTime>
-        
-        <tag>网络爬虫</tag>
-         
-         
-           
-             
-              <breadCrumb title="网络爬虫" url="http://ihongqiqu.com/categories/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/11/01/behavior-interview/</loc>
-    <lastmod>2019-02-28T08:35:04.578Z</lastmod>
-    <data>
-        <display>
-        <title>行为面谈</title>
-        <pubTime>2016-11-01T13:26:08.000Z</pubTime>
-        
-        <tag>行为面谈</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/10/21/DIY-cnblogs-styles/</loc>
+    <loc>http://94275.cn/2016/10/21/DIY-cnblogs-styles/</loc>
     <lastmod>2019-02-28T08:35:04.578Z</lastmod>
     <data>
         <display>
@@ -593,7 +556,44 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/11/07/web-crawler-2/</loc>
+    <loc>http://94275.cn/2016/10/26/web-crawler/</loc>
+    <lastmod>2019-02-28T08:35:04.578Z</lastmod>
+    <data>
+        <display>
+        <title>初识网络爬虫</title>
+        <pubTime>2016-10-26T15:04:09.000Z</pubTime>
+        
+        <tag>网络爬虫</tag>
+         
+         
+           
+             
+              <breadCrumb title="网络爬虫" url="http://94275.cn/categories/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/11/01/behavior-interview/</loc>
+    <lastmod>2019-02-28T08:35:04.578Z</lastmod>
+    <data>
+        <display>
+        <title>行为面谈</title>
+        <pubTime>2016-11-01T13:26:08.000Z</pubTime>
+        
+        <tag>行为面谈</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/11/07/web-crawler-2/</loc>
     <lastmod>2019-02-28T08:35:04.578Z</lastmod>
     <data>
         <display>
@@ -605,7 +605,7 @@
          
            
              
-              <breadCrumb title="网络爬虫" url="http://ihongqiqu.com/categories/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
+              <breadCrumb title="网络爬虫" url="http://94275.cn/categories/%E7%BD%91%E7%BB%9C%E7%88%AC%E8%99%AB/"/>
           
         </display>
     </data>
@@ -613,24 +613,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/10/01/about-agility/</loc>
-    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
-    <data>
-        <display>
-        <title>如何敏捷</title>
-        <pubTime>2016-10-01T09:40:43.000Z</pubTime>
-        
-        <tag>敏捷</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/10/03/collect-requirements/</loc>
+    <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     <data>
         <display>
@@ -642,7 +625,7 @@
          
            
              
-              <breadCrumb title="需求" url="http://ihongqiqu.com/categories/%E9%9C%80%E6%B1%82/"/>
+              <breadCrumb title="需求" url="http://94275.cn/categories/%E9%9C%80%E6%B1%82/"/>
           
         </display>
     </data>
@@ -650,7 +633,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/10/06/psychologie-des-foules/</loc>
+    <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     <data>
         <display>
@@ -667,7 +650,24 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/10/06/read-influence/</loc>
+    <loc>http://94275.cn/2016/10/01/about-agility/</loc>
+    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+    <data>
+        <display>
+        <title>如何敏捷</title>
+        <pubTime>2016-10-01T09:40:43.000Z</pubTime>
+        
+        <tag>敏捷</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/10/06/read-influence/</loc>
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     <data>
         <display>
@@ -684,7 +684,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/10/12/SEO-keywords/</loc>
+    <loc>http://94275.cn/2016/10/12/SEO-keywords/</loc>
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     <data>
         <display>
@@ -696,7 +696,7 @@
          
            
              
-              <breadCrumb title="Seo优化" url="http://ihongqiqu.com/categories/Seo%E4%BC%98%E5%8C%96/"/>
+              <breadCrumb title="Seo优化" url="http://94275.cn/categories/Seo%E4%BC%98%E5%8C%96/"/>
           
         </display>
     </data>
@@ -704,7 +704,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/30/meeting/</loc>
+    <loc>http://94275.cn/2016/09/30/meeting/</loc>
     <lastmod>2019-02-28T08:35:04.576Z</lastmod>
     <data>
         <display>
@@ -723,7 +723,7 @@
     
     
   <url>
-    <loc>http://ihongqiqu.com/2018/04/17/git-flow/</loc>
+    <loc>http://94275.cn/2018/04/17/git-flow/</loc>
     <lastmod>2019-02-01T16:33:50.884Z</lastmod>
     <data>
         <display>
@@ -735,7 +735,7 @@
          
            
              
-              <breadCrumb title="Git" url="http://ihongqiqu.com/categories/Git/"/>
+              <breadCrumb title="Git" url="http://94275.cn/categories/Git/"/>
           
         </display>
     </data>
@@ -743,7 +743,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2018/11/19/wxminiapp-canvas/</loc>
+    <loc>http://94275.cn/2018/11/19/wxminiapp-canvas/</loc>
     <lastmod>2018-11-19T08:39:39.982Z</lastmod>
     <data>
         <display>
@@ -755,7 +755,7 @@
          
            
              
-              <breadCrumb title="微信小程序" url="http://ihongqiqu.com/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
+              <breadCrumb title="微信小程序" url="http://94275.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
           
         </display>
     </data>
@@ -765,7 +765,7 @@
     
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/14/Interpreter-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/14/Interpreter-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
@@ -777,7 +777,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -785,27 +785,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/19/Flyweight-Pattern/</loc>
-    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
-    <data>
-        <display>
-        <title>享元模式</title>
-        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/09/18/Mediator-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
@@ -817,7 +797,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -825,7 +805,27 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/20/Visitor-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
+    <lastmod>2018-06-21T07:09:59.035Z</lastmod>
+    <data>
+        <display>
+        <title>享元模式</title>
+        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/09/20/Visitor-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
@@ -837,7 +837,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -845,22 +845,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/04/06/Android-N-Multi-Window/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
-    <data>
-        <display>
-        <title>Android N 支持多窗口的5个建议 [译]</title>
-        <pubTime>2016-04-06T13:22:22.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/03/24/Android-Studio-Live-Template/</loc>
+    <loc>http://94275.cn/2016/03/24/Android-Studio-Live-Template/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
@@ -875,7 +860,22 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/04/12/Persuade/</loc>
+    <loc>http://94275.cn/2016/04/06/Android-N-Multi-Window/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>Android N 支持多窗口的5个建议 [译]</title>
+        <pubTime>2016-04-06T13:22:22.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/04/12/Persuade/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
@@ -892,7 +892,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/05/06/Fxck-GFW/</loc>
+    <loc>http://94275.cn/2016/05/06/Fxck-GFW/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
@@ -907,7 +907,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/13/Chain-of-Responsibility/</loc>
+    <loc>http://94275.cn/2016/09/13/Chain-of-Responsibility/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
@@ -919,7 +919,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -927,7 +927,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/13/Command-Design-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/13/Command-Design-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
@@ -939,7 +939,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -947,7 +947,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/09/14/Code-Spec/</loc>
+    <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
         <display>
@@ -962,7 +962,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/01/08/Android-Test-Framework-comparison/</loc>
+    <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
@@ -972,7 +972,7 @@
          
            
              
-              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
+              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>
@@ -980,7 +980,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/01/14/android-project-style/</loc>
+    <loc>http://94275.cn/2016/01/14/android-project-style/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
@@ -995,27 +995,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/03/14/Android-DataBinding-Part-Two/</loc>
-    <lastmod>2018-06-21T07:09:59.033Z</lastmod>
-    <data>
-        <display>
-        <title>DataBinding(中) - 事件绑定和数据更新</title>
-        <pubTime>2016-03-14T02:54:01.000Z</pubTime>
-        
-        <tag>Android DataBinding</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android DataBinding" url="http://ihongqiqu.com/categories/Android-DataBinding/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2016/03/13/Android-DataBinding-Part-One/</loc>
+    <loc>http://94275.cn/2016/03/13/Android-DataBinding-Part-One/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
@@ -1027,7 +1007,7 @@
          
            
              
-              <breadCrumb title="Android DataBinding" url="http://ihongqiqu.com/categories/Android-DataBinding/"/>
+              <breadCrumb title="Android DataBinding" url="http://94275.cn/categories/Android-DataBinding/"/>
           
         </display>
     </data>
@@ -1035,7 +1015,27 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/03/18/Android-DataBinding-Part-Three/</loc>
+    <loc>http://94275.cn/2016/03/14/Android-DataBinding-Part-Two/</loc>
+    <lastmod>2018-06-21T07:09:59.033Z</lastmod>
+    <data>
+        <display>
+        <title>DataBinding(中) - 事件绑定和数据更新</title>
+        <pubTime>2016-03-14T02:54:01.000Z</pubTime>
+        
+        <tag>Android DataBinding</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android DataBinding" url="http://94275.cn/categories/Android-DataBinding/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/03/18/Android-DataBinding-Part-Three/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
@@ -1047,7 +1047,7 @@
          
            
              
-              <breadCrumb title="Android DataBinding" url="http://ihongqiqu.com/categories/Android-DataBinding/"/>
+              <breadCrumb title="Android DataBinding" url="http://94275.cn/categories/Android-DataBinding/"/>
           
         </display>
     </data>
@@ -1055,7 +1055,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/18/App-Links/</loc>
+    <loc>http://94275.cn/2015/12/18/App-Links/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
@@ -1067,7 +1067,7 @@
          
            
              
-              <breadCrumb title="H5唤起原生应用" url="http://ihongqiqu.com/categories/H5%E5%94%A4%E8%B5%B7%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8/"/>
+              <breadCrumb title="H5唤起原生应用" url="http://94275.cn/categories/H5%E5%94%A4%E8%B5%B7%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8/"/>
           
         </display>
     </data>
@@ -1075,7 +1075,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/23/Android-6-permission/</loc>
+    <loc>http://94275.cn/2015/12/23/Android-6-permission/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
@@ -1092,7 +1092,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/24/Android-Monkey-Test/</loc>
+    <loc>http://94275.cn/2015/12/24/Android-Monkey-Test/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
@@ -1104,7 +1104,7 @@
          
            
              
-              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
+              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>
@@ -1112,7 +1112,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/25/Android-monkeyrunner/</loc>
+    <loc>http://94275.cn/2015/12/25/Android-monkeyrunner/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
@@ -1124,7 +1124,7 @@
          
            
              
-              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
+              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>
@@ -1132,7 +1132,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2016/01/07/android-instrumentation/</loc>
+    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
@@ -1144,7 +1144,7 @@
          
            
              
-              <breadCrumb title="Android测试" url="http://ihongqiqu.com/categories/Android%E6%B5%8B%E8%AF%95/"/>
+              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>
@@ -1152,7 +1152,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/09/bridgepattern/</loc>
+    <loc>http://94275.cn/2014/12/09/bridgepattern/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
         <display>
@@ -1164,7 +1164,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1172,7 +1172,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/05/18/make-packages/</loc>
+    <loc>http://94275.cn/2015/05/18/make-packages/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
         <display>
@@ -1184,7 +1184,7 @@
          
            
              
-              <breadCrumb title="Android打多渠道包" url="http://ihongqiqu.com/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
           
         </display>
     </data>
@@ -1192,7 +1192,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/07/16/android-mutiple-channel-build/</loc>
+    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
         <display>
@@ -1204,7 +1204,7 @@
          
            
              
-              <breadCrumb title="Android打多渠道包" url="http://ihongqiqu.com/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
           
         </display>
     </data>
@@ -1212,7 +1212,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/03/html-call-native-app/</loc>
+    <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
         <display>
@@ -1224,7 +1224,7 @@
          
            
              
-              <breadCrumb title="H5唤起原生应用" url="http://ihongqiqu.com/categories/H5%E5%94%A4%E8%B5%B7%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8/"/>
+              <breadCrumb title="H5唤起原生应用" url="http://94275.cn/categories/H5%E5%94%A4%E8%B5%B7%E5%8E%9F%E7%94%9F%E5%BA%94%E7%94%A8/"/>
           
         </display>
     </data>
@@ -1232,7 +1232,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2015/12/04/hexo-post-article/</loc>
+    <loc>http://94275.cn/2015/12/04/hexo-post-article/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
         <display>
@@ -1247,7 +1247,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/30/builderpattern/</loc>
+    <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
@@ -1259,7 +1259,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1267,27 +1267,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/02/adapterpattern/</loc>
-    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-    <data>
-        <display>
-        <title>适配器模式</title>
-        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/12/01/observerpattern/</loc>
+    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
@@ -1299,7 +1279,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1307,7 +1287,27 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/03/mementopattern/</loc>
+    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+    <data>
+        <display>
+        <title>适配器模式</title>
+        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/12/03/mementopattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
@@ -1319,7 +1319,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1327,7 +1327,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/04/compositepattern/</loc>
+    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
@@ -1339,7 +1339,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1347,7 +1347,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/05/iteratorpattern/</loc>
+    <loc>http://94275.cn/2014/12/05/iteratorpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
@@ -1359,7 +1359,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1367,7 +1367,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/12/08/singletonpattern/</loc>
+    <loc>http://94275.cn/2014/12/08/singletonpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
@@ -1379,7 +1379,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1387,7 +1387,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/24/abstractfactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
@@ -1399,7 +1399,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1407,7 +1407,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/25/proxypattern/</loc>
+    <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
@@ -1419,7 +1419,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1427,7 +1427,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/26/statepattern/</loc>
+    <loc>http://94275.cn/2014/11/26/statepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
@@ -1439,7 +1439,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1447,7 +1447,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/27/prototypepattern/</loc>
+    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
@@ -1459,7 +1459,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1467,27 +1467,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/29/facadepattern/</loc>
-    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-    <data>
-        <display>
-        <title>外观模式</title>
-        <pubTime>2014-11-29T12:58:54.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/11/28/templatemethodpattern/</loc>
+    <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
@@ -1499,7 +1479,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1507,7 +1487,27 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/02/git-error-handle/</loc>
+    <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
+    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+    <data>
+        <display>
+        <title>外观模式</title>
+        <pubTime>2014-11-29T12:58:54.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/11/02/git-error-handle/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
@@ -1524,7 +1524,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/20/design-pattern-decorator/</loc>
+    <loc>http://94275.cn/2014/11/20/design-pattern-decorator/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
@@ -1536,7 +1536,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1544,27 +1544,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/22/simplefactorypattern/</loc>
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    <data>
-        <display>
-        <title>简单工厂</title>
-        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/11/21/factorymethodpattern/</loc>
+    <loc>http://94275.cn/2014/11/21/factorymethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
@@ -1576,7 +1556,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1584,7 +1564,27 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/11/23/strategypattern/</loc>
+    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    <data>
+        <display>
+        <title>简单工厂</title>
+        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
@@ -1596,7 +1596,7 @@
          
            
              
-              <breadCrumb title="设计模式" url="http://ihongqiqu.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
           
         </display>
     </data>
@@ -1604,7 +1604,22 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/16/android-log/</loc>
+    <loc>http://94275.cn/2014/10/15/butter-knife-injection/</loc>
+    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
+    <data>
+        <display>
+        <title>View注入框架之ButterKnife</title>
+        <pubTime>2014-10-14T16:49:07.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/10/16/android-log/</loc>
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     <data>
         <display>
@@ -1621,37 +1636,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/25/eclipse-to-intellig-idea/</loc>
-    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
-    <data>
-        <display>
-        <title>Eclipse转移到IntelliJ IDEA</title>
-        <pubTime>2014-10-25T09:19:14.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/10/15/butter-knife-injection/</loc>
-    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
-    <data>
-        <display>
-        <title>View注入框架之ButterKnife</title>
-        <pubTime>2014-10-14T16:49:07.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/10/19/inversion-of-control/</loc>
+    <loc>http://94275.cn/2014/10/19/inversion-of-control/</loc>
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
     <data>
         <display>
@@ -1668,7 +1653,22 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/12/architecting-android-applications/</loc>
+    <loc>http://94275.cn/2014/10/25/eclipse-to-intellig-idea/</loc>
+    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
+    <data>
+        <display>
+        <title>Eclipse转移到IntelliJ IDEA</title>
+        <pubTime>2014-10-25T09:19:14.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/09/12/architecting-android-applications/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
@@ -1683,7 +1683,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/23/octopress-post-article/</loc>
+    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
@@ -1698,7 +1698,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/23/quick-build-apk/</loc>
+    <loc>http://94275.cn/2014/09/23/quick-build-apk/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
@@ -1710,7 +1710,7 @@
          
            
              
-              <breadCrumb title="Android打多渠道包" url="http://ihongqiqu.com/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
           
         </display>
     </data>
@@ -1718,7 +1718,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
@@ -1733,7 +1733,22 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/15/android-ui-optimize/</loc>
+    <loc>http://94275.cn/2014/10/15/android-find-view/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>android View Finder[转]</title>
+        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/10/15/android-ui-optimize/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
@@ -1750,40 +1765,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/10/15/android-find-view/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>android View Finder[转]</title>
-        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/07/27/irregular-shapes-part-2/</loc>
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    <data>
-        <display>
-        <title>Android切图之不规则形状-2 [译]</title>
-        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
-        
-         
-           
-             
-              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://ihongqiqu.com/2014/07/22/Stay-hungry-stay-foolish/</loc>
+    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
@@ -1798,7 +1780,25 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    <data>
+        <display>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        
+         
+           
+             
+              <breadCrumb title="Android不规则图形专题" url="http://94275.cn/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
@@ -1813,17 +1813,17 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-2 [译]</title>
+        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
         
          
            
              
-              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
+              <breadCrumb title="Android不规则图形专题" url="http://94275.cn/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
           
         </display>
     </data>
@@ -1831,7 +1831,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/07/29/irregular-shapes-part-3/</loc>
+    <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
@@ -1841,7 +1841,7 @@
          
            
              
-              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
+              <breadCrumb title="Android不规则图形专题" url="http://94275.cn/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
           
         </display>
     </data>
@@ -1849,7 +1849,7 @@
 
     
   <url>
-    <loc>http://ihongqiqu.com/2014/08/02/irregular-shapes-part-4/</loc>
+    <loc>http://94275.cn/2014/08/02/irregular-shapes-part-4/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
@@ -1859,7 +1859,7 @@
          
            
              
-              <breadCrumb title="Android不规则图形专题" url="http://ihongqiqu.com/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
+              <breadCrumb title="Android不规则图形专题" url="http://94275.cn/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
           
         </display>
     </data>
