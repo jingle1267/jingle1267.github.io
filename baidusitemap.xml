@@ -295,26 +295,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2017/12/14/Android-LiveData/</loc>
-    <lastmod>2019-02-28T08:35:04.582Z</lastmod>
-    <data>
-        <display>
-        <title>Android Architecture Components之LiveData</title>
-        <pubTime>2017-12-14T09:40:07.000Z</pubTime>
-        
-        <tag>LiveData</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android Architecture Components" url="http://94275.cn/categories/Android-Architecture-Components/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2017/12/09/lifecycle/</loc>
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     <data>
@@ -335,19 +315,19 @@
 
     
   <url>
-    <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
-    <lastmod>2019-02-28T08:35:04.581Z</lastmod>
+    <loc>http://94275.cn/2017/12/14/Android-LiveData/</loc>
+    <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     <data>
         <display>
-        <title>BottomNavigationView</title>
-        <pubTime>2017-06-14T14:35:22.000Z</pubTime>
+        <title>Android Architecture Components之LiveData</title>
+        <pubTime>2017-12-14T09:40:07.000Z</pubTime>
         
-        <tag>BottomNavigationView</tag>
+        <tag>LiveData</tag>
          
          
            
              
-              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
+              <breadCrumb title="Android Architecture Components" url="http://94275.cn/categories/Android-Architecture-Components/"/>
           
         </display>
     </data>
@@ -368,6 +348,26 @@
            
              
               <breadCrumb title="ElasticSearch" url="http://94275.cn/categories/ElasticSearch/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
+    <lastmod>2019-02-28T08:35:04.581Z</lastmod>
+    <data>
+        <display>
+        <title>BottomNavigationView</title>
+        <pubTime>2017-06-14T14:35:22.000Z</pubTime>
+        
+        <tag>BottomNavigationView</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
           
         </display>
     </data>
@@ -800,12 +800,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>享元模式</title>
-        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
+        <title>中介者模式</title>
+        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -820,12 +820,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>中介者模式</title>
-        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
+        <title>享元模式</title>
+        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -942,6 +942,21 @@
 
     
   <url>
+    <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    <data>
+        <display>
+        <title>代码洁癖</title>
+        <pubTime>2016-09-14T02:37:40.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://94275.cn/2016/09/13/Command-Design-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     <data>
@@ -962,34 +977,17 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
-    <data>
-        <display>
-        <title>代码洁癖</title>
-        <pubTime>2016-09-14T02:37:40.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2016/03/13/Android-DataBinding-Part-One/</loc>
+    <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
-        <title>DataBinding(上) - 数据和控件绑定</title>
-        <pubTime>2016-03-13T08:28:50.000Z</pubTime>
+        <title>5个最佳的Android测试框架[转]</title>
+        <pubTime>2016-01-08T02:31:16.000Z</pubTime>
         
-        <tag>Android DataBinding</tag>
-         
          
            
              
-              <breadCrumb title="Android DataBinding" url="http://94275.cn/categories/Android-DataBinding/"/>
+              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
           
         </display>
     </data>
@@ -1012,17 +1010,19 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
+    <loc>http://94275.cn/2016/03/13/Android-DataBinding-Part-One/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
-        <title>5个最佳的Android测试框架[转]</title>
-        <pubTime>2016-01-08T02:31:16.000Z</pubTime>
+        <title>DataBinding(上) - 数据和控件绑定</title>
+        <pubTime>2016-03-13T08:28:50.000Z</pubTime>
         
+        <tag>Android DataBinding</tag>
+         
          
            
              
-              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
+              <breadCrumb title="Android DataBinding" url="http://94275.cn/categories/Android-DataBinding/"/>
           
         </display>
     </data>
@@ -1090,26 +1090,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2015/12/24/Android-Monkey-Test/</loc>
-    <lastmod>2018-06-21T07:09:59.032Z</lastmod>
-    <data>
-        <display>
-        <title>Android Monkey Test</title>
-        <pubTime>2015-12-24T07:40:19.000Z</pubTime>
-        
-        <tag>Monkey</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2015/12/23/Android-6-permission/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
@@ -1127,14 +1107,14 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
+    <loc>http://94275.cn/2015/12/24/Android-Monkey-Test/</loc>
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     <data>
         <display>
-        <title>Android instrumentation</title>
-        <pubTime>2016-01-07T10:16:20.000Z</pubTime>
+        <title>Android Monkey Test</title>
+        <pubTime>2015-12-24T07:40:19.000Z</pubTime>
         
-        <tag>instrumentation</tag>
+        <tag>Monkey</tag>
          
          
            
@@ -1167,6 +1147,26 @@
 
     
   <url>
+    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
+    <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+    <data>
+        <display>
+        <title>Android instrumentation</title>
+        <pubTime>2016-01-07T10:16:20.000Z</pubTime>
+        
+        <tag>instrumentation</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android测试" url="http://94275.cn/categories/Android%E6%B5%8B%E8%AF%95/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://94275.cn/2014/12/09/bridgepattern/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
@@ -1180,26 +1180,6 @@
            
              
               <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
-    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
-    <data>
-        <display>
-        <title>Android批量打包极速版</title>
-        <pubTime>2015-07-16T08:08:08.000Z</pubTime>
-        
-        <tag>打包</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
           
         </display>
     </data>
@@ -1227,6 +1207,41 @@
 
     
   <url>
+    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
+    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
+    <data>
+        <display>
+        <title>Android批量打包极速版</title>
+        <pubTime>2015-07-16T08:08:08.000Z</pubTime>
+        
+        <tag>打包</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2015/12/04/hexo-post-article/</loc>
+    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
+    <data>
+        <display>
+        <title>使用HEXO发布文章</title>
+        <pubTime>2015-12-03T16:00:00.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
@@ -1247,15 +1262,20 @@
 
     
   <url>
-    <loc>http://94275.cn/2015/12/04/hexo-post-article/</loc>
-    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
+    <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
+    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>使用HEXO发布文章</title>
-        <pubTime>2015-12-03T16:00:00.000Z</pubTime>
+        <title>建造者模式</title>
+        <pubTime>2014-11-30T05:52:07.000Z</pubTime>
         
+        <tag>设计模式</tag>
+         
          
            
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
         </display>
     </data>
     </url>
@@ -1302,12 +1322,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
+    <loc>http://94275.cn/2014/12/03/mementopattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>组合模式</title>
-        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
+        <title>备忘录模式</title>
+        <pubTime>2014-12-03T13:19:26.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1342,12 +1362,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
+    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>建造者模式</title>
-        <pubTime>2014-11-30T05:52:07.000Z</pubTime>
+        <title>组合模式</title>
+        <pubTime>2014-12-04T13:43:07.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1368,26 +1388,6 @@
         <display>
         <title>单例模式</title>
         <pubTime>2014-12-08T14:15:08.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2014/12/03/mementopattern/</loc>
-    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-    <data>
-        <display>
-        <title>备忘录模式</title>
-        <pubTime>2014-12-03T13:19:26.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1462,12 +1462,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
+    <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>外观模式</title>
-        <pubTime>2014-11-29T12:58:54.000Z</pubTime>
+        <title>模板方法模式</title>
+        <pubTime>2014-11-28T13:57:22.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1502,12 +1502,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
+    <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>模板方法模式</title>
-        <pubTime>2014-11-28T13:57:22.000Z</pubTime>
+        <title>外观模式</title>
+        <pubTime>2014-11-29T12:58:54.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1539,26 +1539,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/20/design-pattern-decorator/</loc>
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    <data>
-        <display>
-        <title>装饰者模式</title>
-        <pubTime>2014-11-20T13:53:20.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2014/11/21/factorymethodpattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
@@ -1579,12 +1559,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/20/design-pattern-decorator/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>简单工厂</title>
-        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        <title>装饰者模式</title>
+        <pubTime>2014-11-20T13:53:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1605,6 +1585,26 @@
         <display>
         <title>策略模式</title>
         <pubTime>2014-11-22T16:13:49.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    <data>
+        <display>
+        <title>简单工厂</title>
+        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1698,6 +1698,21 @@
 
     
   <url>
+    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+    <data>
+        <display>
+        <title>使用Octopress发布文章</title>
+        <pubTime>2014-09-23T14:22:07.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://94275.cn/2014/09/23/quick-build-apk/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
@@ -1718,27 +1733,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
+    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>使用Octopress发布文章</title>
-        <pubTime>2014-09-23T14:22:07.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2014/10/15/android-find-view/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>android View Finder[转]</title>
-        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
+        <title>输入1则输出0，输入0则输出1</title>
+        <pubTime>2014-09-25T14:22:17.000Z</pubTime>
         
          
            
@@ -1765,12 +1765,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+    <loc>http://94275.cn/2014/10/15/android-find-view/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>输入1则输出0，输入0则输出1</title>
-        <pubTime>2014-09-25T14:22:17.000Z</pubTime>
+        <title>android View Finder[转]</title>
+        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
         
          
            
@@ -1780,12 +1780,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
+    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Stay hungry, stay foolish</title>
-        <pubTime>2014-07-22T14:16:21.000Z</pubTime>
+        <title>快速开发小技巧:如何通过一个命令行将apk从多台设备安装或卸载</title>
+        <pubTime>2014-07-22T15:20:24.000Z</pubTime>
         
          
            
@@ -1813,12 +1813,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>快速开发小技巧:如何通过一个命令行将apk从多台设备安装或卸载</title>
-        <pubTime>2014-07-22T15:20:24.000Z</pubTime>
+        <title>Stay hungry, stay foolish</title>
+        <pubTime>2014-07-22T14:16:21.000Z</pubTime>
         
          
            
@@ -1828,12 +1828,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-3 [译]</title>
+        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
         
          
            
@@ -1864,12 +1864,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
+    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-3 [译]</title>
-        <pubTime>2014-07-29T14:03:31.000Z</pubTime>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
         
          
            
