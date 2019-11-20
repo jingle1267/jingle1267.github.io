@@ -9,14 +9,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/IOC/</loc>
+        <loc>http://94275.cn/tags/Log/</loc>
         <lastmod>2018-06-21T07:09:59.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/Log/</loc>
+        <loc>http://94275.cn/tags/IOC/</loc>
         <lastmod>2018-06-21T07:09:59.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -51,13 +51,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/%E6%9D%83%E9%99%90/</loc>
-        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://94275.cn/tags/Monkey/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -65,7 +58,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/monkeyrunner/</loc>
+        <loc>http://94275.cn/tags/%E6%9D%83%E9%99%90/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -73,6 +66,13 @@
 
     <url>
         <loc>http://94275.cn/tags/instrumentation/</loc>
+        <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://94275.cn/tags/monkeyrunner/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -163,14 +163,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/SQL/</loc>
+        <loc>http://94275.cn/tags/hexo/</loc>
         <lastmod>2019-02-28T08:35:04.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/hexo/</loc>
+        <loc>http://94275.cn/tags/SQL/</loc>
         <lastmod>2019-02-28T08:35:04.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -212,14 +212,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/ElasticSearch/</loc>
+        <loc>http://94275.cn/tags/BottomNavigationView/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/BottomNavigationView/</loc>
+        <loc>http://94275.cn/tags/ElasticSearch/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -240,14 +240,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/LifeCycle/</loc>
+        <loc>http://94275.cn/tags/LiveData/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/LiveData/</loc>
+        <loc>http://94275.cn/tags/LifeCycle/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
