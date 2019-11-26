@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://94275.cn/2019/11/20/fe-2008-2017/</loc>
+    
+    <lastmod>2019-11-26T06:45:14.663Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2016/11/09/hexo-add-widget/</loc>
     
     <lastmod>2019-11-26T05:48:17.055Z</lastmod>
@@ -12,13 +19,6 @@
     <loc>http://94275.cn/about/index.html</loc>
     
     <lastmod>2019-11-25T09:08:02.991Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2019/11/20/fe-2008-2017/</loc>
-    
-    <lastmod>2019-11-20T08:14:54.247Z</lastmod>
     
   </url>
   
@@ -576,14 +576,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
+    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -597,14 +597,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
+    <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
+    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -639,14 +639,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
+    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     
