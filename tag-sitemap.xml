@@ -121,14 +121,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/%E6%94%B6%E9%9B%86%E9%9C%80%E6%B1%82/</loc>
+        <loc>http://94275.cn/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
+        <loc>http://94275.cn/tags/%E6%94%B6%E9%9B%86%E9%9C%80%E6%B1%82/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -158,13 +158,6 @@
     <url>
         <loc>http://94275.cn/tags/%E8%A1%8C%E4%B8%BA%E9%9D%A2%E8%B0%88/</loc>
         <lastmod>2019-02-28T08:35:04.578Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://94275.cn/tags/hexo/</loc>
-        <lastmod>2019-02-28T08:35:04.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
@@ -219,14 +212,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/BottomNavigationView/</loc>
+        <loc>http://94275.cn/tags/RxJava/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/RxJava/</loc>
+        <loc>http://94275.cn/tags/BottomNavigationView/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -298,6 +291,13 @@
     <url>
         <loc>http://94275.cn/tags/cnblogs/</loc>
         <lastmod>2019-11-18T09:42:48.020Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://94275.cn/tags/hexo/</loc>
+        <lastmod>2019-11-26T05:48:17.055Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
