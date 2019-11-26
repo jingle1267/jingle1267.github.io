@@ -376,26 +376,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2017/10/16/RxJava-Hello-World/</loc>
-    <lastmod>2019-02-28T08:35:04.581Z</lastmod>
-    <data>
-        <display>
-        <title>RxJava Hello World</title>
-        <pubTime>2017-10-16T10:02:03.000Z</pubTime>
-        
-        <tag>RxJava</tag>
-         
-         
-           
-             
-              <breadCrumb title="RxJava" url="http://94275.cn/categories/RxJava/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
     <lastmod>2019-02-28T08:35:04.581Z</lastmod>
     <data>
@@ -409,6 +389,26 @@
            
              
               <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2017/10/16/RxJava-Hello-World/</loc>
+    <lastmod>2019-02-28T08:35:04.581Z</lastmod>
+    <data>
+        <display>
+        <title>RxJava Hello World</title>
+        <pubTime>2017-10-16T10:02:03.000Z</pubTime>
+        
+        <tag>RxJava</tag>
+         
+         
+           
+             
+              <breadCrumb title="RxJava" url="http://94275.cn/categories/RxJava/"/>
           
         </display>
     </data>
@@ -647,23 +647,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
-    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
-    <data>
-        <display>
-        <title>乌合之众文摘</title>
-        <pubTime>2016-10-06T12:10:00.000Z</pubTime>
-        
-        <tag>心理学</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     <data>
@@ -678,6 +661,23 @@
              
               <breadCrumb title="需求" url="http://94275.cn/categories/%E9%9C%80%E6%B1%82/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
+    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+    <data>
+        <display>
+        <title>乌合之众文摘</title>
+        <pubTime>2016-10-06T12:10:00.000Z</pubTime>
+        
+        <tag>心理学</tag>
+         
+         
+           
         </display>
     </data>
     </url>
@@ -820,12 +820,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/20/Visitor-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>访问者模式</title>
-        <pubTime>2016-09-20T06:33:09.000Z</pubTime>
+        <title>享元模式</title>
+        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -840,12 +840,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/20/Visitor-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>享元模式</title>
-        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
+        <title>访问者模式</title>
+        <pubTime>2016-09-20T06:33:09.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1030,12 +1030,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/03/18/Android-DataBinding-Part-Three/</loc>
+    <loc>http://94275.cn/2016/03/14/Android-DataBinding-Part-Two/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
-        <title>DataBinding(下) - 表达式，IMPORT和INCLUDE</title>
-        <pubTime>2016-03-18T03:26:13.000Z</pubTime>
+        <title>DataBinding(中) - 事件绑定和数据更新</title>
+        <pubTime>2016-03-14T02:54:01.000Z</pubTime>
         
         <tag>Android DataBinding</tag>
          
@@ -1050,12 +1050,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/03/14/Android-DataBinding-Part-Two/</loc>
+    <loc>http://94275.cn/2016/03/18/Android-DataBinding-Part-Three/</loc>
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     <data>
         <display>
-        <title>DataBinding(中) - 事件绑定和数据更新</title>
-        <pubTime>2016-03-14T02:54:01.000Z</pubTime>
+        <title>DataBinding(下) - 表达式，IMPORT和INCLUDE</title>
+        <pubTime>2016-03-18T03:26:13.000Z</pubTime>
         
         <tag>Android DataBinding</tag>
          
@@ -1402,6 +1402,26 @@
 
     
   <url>
+    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
+    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+    <data>
+        <display>
+        <title>抽象工厂</title>
+        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
@@ -1442,12 +1462,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>抽象工厂</title>
-        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
+        <title>原型模式</title>
+        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1468,26 +1488,6 @@
         <display>
         <title>模板方法模式</title>
         <pubTime>2014-11-28T13:57:22.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
-    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-    <data>
-        <display>
-        <title>原型模式</title>
-        <pubTime>2014-11-26T17:28:16.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1579,12 +1579,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>简单工厂</title>
-        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        <title>策略模式</title>
+        <pubTime>2014-11-22T16:13:49.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1599,12 +1599,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
+    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>策略模式</title>
-        <pubTime>2014-11-22T16:13:49.000Z</pubTime>
+        <title>简单工厂</title>
+        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
         
         <tag>设计模式</tag>
          
