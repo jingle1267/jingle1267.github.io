@@ -7,6 +7,13 @@
     </url>
     
     <url>
+        <loc>http://94275.cn/about/</loc>
+        <lastmod>2019-11-25T09:08:02.991Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://94275.cn/404.html</loc>
         <lastmod>2019-11-18T09:42:48.016Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -28,14 +35,14 @@
     </url>
     
     <url>
-        <loc>http://94275.cn/shua/baiduihongqiqu.html</loc>
+        <loc>http://94275.cn/shua/baiduihongqiqu1.html</loc>
         <lastmod>2019-02-28T08:35:04.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://94275.cn/shua/baiduihongqiqu1.html</loc>
+        <loc>http://94275.cn/shua/baiduihongqiqu.html</loc>
         <lastmod>2019-02-28T08:35:04.621Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -57,13 +64,6 @@
     
     <url>
         <loc>http://94275.cn/baidu_verify_QAIAP7Wwhm.html</loc>
-        <lastmod>2018-06-21T07:09:59.041Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>http://94275.cn/about/</loc>
         <lastmod>2018-06-21T07:09:59.041Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
