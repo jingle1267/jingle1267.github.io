@@ -1,3 +1,3 @@
-// build time:Mon Nov 25 2019 17:03:50 GMT+0800 (China Standard Time)
+// build time:Tue Nov 26 2019 11:19:34 GMT+0800 (China Standard Time)
 (function(o){var e=1e3;var t=o("#totop");var l=500;t.hide();o(window).scroll(function(){var l=o(document).scrollTop();if(l>e){o(t).stop().fadeTo(300,1)}else{o(t).stop().fadeTo(300,0)}});o(t).click(function(){o("html, body").animate({scrollTop:0},l);return false})})(jQuery);
 //rebuild by neat 
