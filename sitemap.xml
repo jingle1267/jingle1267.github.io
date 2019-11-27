@@ -2,6 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://94275.cn/2019/02/01/Effective-JavaScript/</loc>
+    
+    <lastmod>2019-11-27T08:37:00.795Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2018/01/09/SiMaYi/</loc>
+    
+    <lastmod>2019-11-27T08:33:29.269Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2018/04/13/caocao/</loc>
+    
+    <lastmod>2019-11-27T08:31:02.780Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2019/02/07/Spring-MVC/</loc>
+    
+    <lastmod>2019-11-27T08:28:09.431Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2018/08/27/weixin-mini-app-api/</loc>
+    
+    <lastmod>2019-11-27T08:22:36.343Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2018/08/21/wexin-mini-component/</loc>
+    
+    <lastmod>2019-11-27T08:14:49.974Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2018/09/20/wxmini-in-out/</loc>
+    
+    <lastmod>2019-11-27T08:09:53.517Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/about/index.html</loc>
     
     <lastmod>2019-11-27T08:02:26.330Z</lastmod>
@@ -33,13 +82,6 @@
     <loc>http://94275.cn/404.html</loc>
     
     <lastmod>2019-11-18T09:42:48.016Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2018/09/20/wxmini-in-out/</loc>
-    
-    <lastmod>2019-11-18T07:50:47.014Z</lastmod>
     
   </url>
   
@@ -86,37 +128,9 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2019/02/01/Effective-JavaScript/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.588Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2019/02/07/Spring-MVC/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.588Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2018/11/13/webpack4-intro/</loc>
     
     <lastmod>2019-02-28T08:35:04.587Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2018/08/27/weixin-mini-app-api/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.586Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2018/08/21/wexin-mini-component/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.585Z</lastmod>
     
   </url>
   
@@ -128,14 +142,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2018/04/13/caocao/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.584Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2018/01/09/SiMaYi/</loc>
+    <loc>http://94275.cn/2017/12/26/Mr.-Mao/</loc>
     
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     
@@ -149,13 +156,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/12/26/Mr.-Mao/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.583Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2018/04/04/wx-mini-app-bug/</loc>
     
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/12/09/lifecycle/</loc>
+    <loc>http://94275.cn/2017/11/29/Common-Android-Open-Source-Project/</loc>
     
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/11/29/Common-Android-Open-Source-Project/</loc>
+    <loc>http://94275.cn/2017/12/09/lifecycle/</loc>
     
     <lastmod>2019-02-28T08:35:04.582Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
+    <loc>http://94275.cn/2017/03/11/elasticsearch-sort-nested/</loc>
     
     <lastmod>2019-02-28T08:35:04.581Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/03/11/elasticsearch-sort-nested/</loc>
+    <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
     
     <lastmod>2019-02-28T08:35:04.581Z</lastmod>
     
@@ -226,14 +226,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/01/22/mybatis/</loc>
+    <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
     
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
+    <loc>http://94275.cn/2017/01/22/mybatis/</loc>
     
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     
@@ -247,13 +247,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/12/24/aop/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2016/12/20/Android-Things/</loc>
     
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
@@ -261,14 +254,21 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/10/26/web-crawler/</loc>
+    <loc>http://94275.cn/2016/12/24/aop/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2016/11/01/behavior-interview/</loc>
     
     <lastmod>2019-02-28T08:35:04.578Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/11/01/behavior-interview/</loc>
+    <loc>http://94275.cn/2016/10/26/web-crawler/</loc>
     
     <lastmod>2019-02-28T08:35:04.578Z</lastmod>
     
@@ -282,7 +282,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/10/01/about-agility/</loc>
+    <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     
@@ -296,14 +296,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
+    <loc>http://94275.cn/2016/10/06/read-influence/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/10/06/read-influence/</loc>
+    <loc>http://94275.cn/2016/10/01/about-agility/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     
@@ -352,14 +352,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     
@@ -373,14 +373,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/04/06/Android-N-Multi-Window/</loc>
+    <loc>http://94275.cn/2016/03/24/Android-Studio-Live-Template/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/03/24/Android-Studio-Live-Template/</loc>
+    <loc>http://94275.cn/2016/04/06/Android-N-Multi-Window/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
@@ -401,7 +401,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/09/13/Chain-of-Responsibility/</loc>
+    <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
@@ -415,21 +415,21 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
+    <loc>http://94275.cn/2016/09/13/Chain-of-Responsibility/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/01/14/android-project-style/</loc>
+    <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
     
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
+    <loc>http://94275.cn/2016/01/14/android-project-style/</loc>
     
     <lastmod>2018-06-21T07:09:59.033Z</lastmod>
     
@@ -478,6 +478,13 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2015/12/25/Android-monkeyrunner/</loc>
     
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
@@ -485,9 +492,9 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
+    <loc>http://94275.cn/2015/05/18/make-packages/</loc>
     
-    <lastmod>2018-06-21T07:09:59.032Z</lastmod>
+    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     
   </url>
   
@@ -500,13 +507,6 @@
   
   <url>
     <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2015/05/18/make-packages/</loc>
     
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     
@@ -534,14 +534,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
+    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -555,14 +555,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
+    <loc>http://94275.cn/2014/12/05/iteratorpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/12/05/iteratorpattern/</loc>
+    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -576,7 +576,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
+    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -590,14 +590,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/26/statepattern/</loc>
+    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/26/statepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -618,20 +618,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/02/git-error-handle/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2014/11/20/design-pattern-decorator/</loc>
     
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
@@ -639,7 +625,21 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2014/11/02/git-error-handle/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2014/11/21/factorymethodpattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     
@@ -695,13 +695,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2014/09/23/quick-build-apk/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
@@ -709,7 +702,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/10/15/android-ui-optimize/</loc>
+    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     
@@ -723,14 +716,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
+    <loc>http://94275.cn/2014/10/15/android-ui-optimize/</loc>
     
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
@@ -744,7 +737,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
+    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
