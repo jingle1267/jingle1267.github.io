@@ -436,26 +436,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2017/01/05/android-webview-component/</loc>
-    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
-    <data>
-        <display>
-        <title>Android WebView组件</title>
-        <pubTime>2017-01-05T12:38:22.000Z</pubTime>
-        
-        <tag>Android</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2017/01/09/react-hello-world/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
@@ -469,6 +449,26 @@
            
              
               <breadCrumb title="React" url="http://94275.cn/categories/React/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2017/01/05/android-webview-component/</loc>
+    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
+    <data>
+        <display>
+        <title>Android WebView组件</title>
+        <pubTime>2017-01-05T12:38:22.000Z</pubTime>
+        
+        <tag>Android</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
           
         </display>
     </data>
@@ -800,12 +800,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>享元模式</title>
-        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
+        <title>中介者模式</title>
+        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -820,12 +820,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
+    <loc>http://94275.cn/2016/09/19/Flyweight-Pattern/</loc>
     <lastmod>2018-06-21T07:09:59.035Z</lastmod>
     <data>
         <display>
-        <title>中介者模式</title>
-        <pubTime>2016-09-18T02:07:20.000Z</pubTime>
+        <title>享元模式</title>
+        <pubTime>2016-09-19T06:19:11.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1262,26 +1262,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
-    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-    <data>
-        <display>
-        <title>观察者模式</title>
-        <pubTime>2014-12-01T10:03:15.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
@@ -1302,12 +1282,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>适配器模式</title>
-        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
+        <title>观察者模式</title>
+        <pubTime>2014-12-01T10:03:15.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1328,6 +1308,26 @@
         <display>
         <title>备忘录模式</title>
         <pubTime>2014-12-03T13:19:26.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+    <data>
+        <display>
+        <title>适配器模式</title>
+        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1810,12 +1810,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
+    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-2 [译]</title>
-        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
+        <title>Android切图之不规则形状-1 [译]</title>
+        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
         
          
            
@@ -1828,12 +1828,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     <data>
         <display>
-        <title>Android切图之不规则形状-1 [译]</title>
-        <pubTime>2014-07-22T15:25:50.000Z</pubTime>
+        <title>Android切图之不规则形状-2 [译]</title>
+        <pubTime>2014-07-27T11:01:46.000Z</pubTime>
         
          
            
