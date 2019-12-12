@@ -476,23 +476,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2017/01/22/mybatis/</loc>
-    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
-    <data>
-        <display>
-        <title>MyBatis 快速上手</title>
-        <pubTime>2017-01-22T12:00:23.000Z</pubTime>
-        
-        <tag>MyBatis</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
     <data>
@@ -507,6 +490,23 @@
              
               <breadCrumb title="Android" url="http://94275.cn/categories/Android/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2017/01/22/mybatis/</loc>
+    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
+    <data>
+        <display>
+        <title>MyBatis 快速上手</title>
+        <pubTime>2017-01-22T12:00:23.000Z</pubTime>
+        
+        <tag>MyBatis</tag>
+         
+         
+           
         </display>
     </data>
     </url>
@@ -1207,26 +1207,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
-    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
-    <data>
-        <display>
-        <title>Android批量打包极速版</title>
-        <pubTime>2015-07-16T08:08:08.000Z</pubTime>
-        
-        <tag>打包</tag>
-         
-         
-           
-             
-              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
@@ -1247,6 +1227,26 @@
 
     
   <url>
+    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
+    <lastmod>2018-06-21T07:09:59.031Z</lastmod>
+    <data>
+        <display>
+        <title>Android批量打包极速版</title>
+        <pubTime>2015-07-16T08:08:08.000Z</pubTime>
+        
+        <tag>打包</tag>
+         
+         
+           
+             
+              <breadCrumb title="Android打多渠道包" url="http://94275.cn/categories/Android%E6%89%93%E5%A4%9A%E6%B8%A0%E9%81%93%E5%8C%85/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://94275.cn/2015/12/04/hexo-post-article/</loc>
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     <data>
@@ -1256,26 +1256,6 @@
         
          
            
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
-    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-    <data>
-        <display>
-        <title>适配器模式</title>
-        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
-        
-        <tag>设计模式</tag>
-         
-         
-           
-             
-              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
-          
         </display>
     </data>
     </url>
@@ -1302,12 +1282,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/12/03/mementopattern/</loc>
+    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>备忘录模式</title>
-        <pubTime>2014-12-03T13:19:26.000Z</pubTime>
+        <title>观察者模式</title>
+        <pubTime>2014-12-01T10:03:15.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1322,12 +1302,32 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
+    <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     <data>
         <display>
-        <title>观察者模式</title>
-        <pubTime>2014-12-01T10:03:15.000Z</pubTime>
+        <title>适配器模式</title>
+        <pubTime>2014-12-02T13:30:48.000Z</pubTime>
+        
+        <tag>设计模式</tag>
+         
+         
+           
+             
+              <breadCrumb title="设计模式" url="http://94275.cn/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/12/03/mementopattern/</loc>
+    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+    <data>
+        <display>
+        <title>备忘录模式</title>
+        <pubTime>2014-12-03T13:19:26.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1402,12 +1402,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
+    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>代理模式</title>
-        <pubTime>2014-11-25T10:59:45.000Z</pubTime>
+        <title>抽象工厂</title>
+        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1422,12 +1422,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     <data>
         <display>
-        <title>抽象工厂</title>
-        <pubTime>2014-11-24T13:03:38.000Z</pubTime>
+        <title>代理模式</title>
+        <pubTime>2014-11-25T10:59:45.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1579,12 +1579,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
+    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>策略模式</title>
-        <pubTime>2014-11-22T16:13:49.000Z</pubTime>
+        <title>简单工厂</title>
+        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1599,12 +1599,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
+    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     <data>
         <display>
-        <title>简单工厂</title>
-        <pubTime>2014-11-22T08:47:10.000Z</pubTime>
+        <title>策略模式</title>
+        <pubTime>2014-11-22T16:13:49.000Z</pubTime>
         
         <tag>设计模式</tag>
          
@@ -1683,12 +1683,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/09/12/architecting-android-applications/</loc>
+    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>Android应用程序架构[译]</title>
-        <pubTime>2014-09-12T15:06:53.000Z</pubTime>
+        <title>使用Octopress发布文章</title>
+        <pubTime>2014-09-23T14:22:07.000Z</pubTime>
         
          
            
@@ -1698,12 +1698,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
+    <loc>http://94275.cn/2014/09/12/architecting-android-applications/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>使用Octopress发布文章</title>
-        <pubTime>2014-09-23T14:22:07.000Z</pubTime>
+        <title>Android应用程序架构[译]</title>
+        <pubTime>2014-09-12T15:06:53.000Z</pubTime>
         
          
            
@@ -1748,21 +1748,6 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/10/15/android-find-view/</loc>
-    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-    <data>
-        <display>
-        <title>android View Finder[转]</title>
-        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>http://94275.cn/2014/10/15/android-ui-optimize/</loc>
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
@@ -1780,27 +1765,12 @@
 
     
   <url>
-    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    <loc>http://94275.cn/2014/10/15/android-find-view/</loc>
+    <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     <data>
         <display>
-        <title>Stay hungry, stay foolish</title>
-        <pubTime>2014-07-22T14:16:21.000Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    <data>
-        <display>
-        <title>快速开发小技巧:如何通过一个命令行将apk从多台设备安装或卸载</title>
-        <pubTime>2014-07-22T15:20:24.000Z</pubTime>
+        <title>android View Finder[转]</title>
+        <pubTime>2014-10-14T16:05:38.000Z</pubTime>
         
          
            
@@ -1840,6 +1810,36 @@
              
               <breadCrumb title="Android不规则图形专题" url="http://94275.cn/categories/Android%E4%B8%8D%E8%A7%84%E5%88%99%E5%9B%BE%E5%BD%A2%E4%B8%93%E9%A2%98/"/>
           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    <data>
+        <display>
+        <title>Stay hungry, stay foolish</title>
+        <pubTime>2014-07-22T14:16:21.000Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    <data>
+        <display>
+        <title>快速开发小技巧:如何通过一个命令行将apk从多台设备安装或卸载</title>
+        <pubTime>2014-07-22T15:20:24.000Z</pubTime>
+        
+         
+           
         </display>
     </data>
     </url>
