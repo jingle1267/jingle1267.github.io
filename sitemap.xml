@@ -282,13 +282,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/10/01/about-agility/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
@@ -297,6 +290,13 @@
   
   <url>
     <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2016/10/01/about-agility/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     
@@ -506,14 +506,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
+    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
     
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
+    <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
     
     <lastmod>2018-06-21T07:09:59.031Z</lastmod>
     
@@ -576,13 +576,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
@@ -612,6 +605,13 @@
   
   <url>
     <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -667,13 +667,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/10/19/inversion-of-control/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2014/10/25/eclipse-to-intellig-idea/</loc>
     
     <lastmod>2018-06-21T07:09:59.027Z</lastmod>
@@ -681,14 +674,21 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
+    <loc>http://94275.cn/2014/10/19/inversion-of-control/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.027Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/09/12/architecting-android-applications/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/09/12/architecting-android-applications/</loc>
+    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     
@@ -723,7 +723,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
+    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
@@ -737,14 +744,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
+    <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
