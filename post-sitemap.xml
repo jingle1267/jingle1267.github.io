@@ -127,6 +127,14 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2017/12/14/Android-LiveData/</loc>
+        <lastmod>2019-02-28T08:35:04.582Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2017/11/29/Common-Android-Open-Source-Project/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -143,22 +151,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/12/14/Android-LiveData/</loc>
-        <lastmod>2019-02-28T08:35:04.582Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://94275.cn/2017/03/11/elasticsearch-sort-nested/</loc>
-        <lastmod>2019-02-28T08:35:04.581Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -168,6 +160,14 @@
 
     <url>
         <loc>http://94275.cn/2017/10/16/RxJava-Hello-World/</loc>
+        <lastmod>2019-02-28T08:35:04.581Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://94275.cn/2017/03/11/elasticsearch-sort-nested/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -191,7 +191,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
+        <loc>http://94275.cn/2017/01/09/react-hello-world/</loc>
         <lastmod>2019-02-28T08:35:04.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -199,7 +199,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/01/09/react-hello-world/</loc>
+        <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
         <lastmod>2019-02-28T08:35:04.580Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -215,14 +215,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/12/24/aop/</loc>
-        <lastmod>2019-02-28T08:35:04.579Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2016/11/24/repeat-sql-data/</loc>
         <lastmod>2019-02-28T08:35:04.579Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -232,6 +224,14 @@
 
     <url>
         <loc>http://94275.cn/2016/12/20/Android-Things/</loc>
+        <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://94275.cn/2016/12/24/aop/</loc>
         <lastmod>2019-02-28T08:35:04.579Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -271,7 +271,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
+        <loc>http://94275.cn/2016/10/06/read-influence/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -287,7 +287,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/10/06/read-influence/</loc>
+        <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -327,7 +327,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/09/14/Interpreter-Pattern/</loc>
+        <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
         <lastmod>2018-06-21T07:09:59.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -335,7 +335,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/09/18/Mediator-Pattern/</loc>
+        <loc>http://94275.cn/2016/09/14/Interpreter-Pattern/</loc>
         <lastmod>2018-06-21T07:09:59.035Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -399,14 +399,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
-        <lastmod>2018-06-21T07:09:59.034Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2016/09/13/Command-Design-Pattern/</loc>
         <lastmod>2018-06-21T07:09:59.034Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -415,8 +407,8 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
-        <lastmod>2018-06-21T07:09:59.033Z</lastmod>
+        <loc>http://94275.cn/2016/09/14/Code-Spec/</loc>
+        <lastmod>2018-06-21T07:09:59.034Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -431,7 +423,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/03/13/Android-DataBinding-Part-One/</loc>
+        <loc>http://94275.cn/2016/01/08/Android-Test-Framework-comparison/</loc>
         <lastmod>2018-06-21T07:09:59.033Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -455,6 +447,14 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2016/03/13/Android-DataBinding-Part-One/</loc>
+        <lastmod>2018-06-21T07:09:59.033Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2015/12/18/App-Links/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -463,7 +463,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2015/12/24/Android-Monkey-Test/</loc>
+        <loc>http://94275.cn/2015/12/23/Android-6-permission/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -471,7 +471,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2015/12/23/Android-6-permission/</loc>
+        <loc>http://94275.cn/2015/12/24/Android-Monkey-Test/</loc>
         <lastmod>2018-06-21T07:09:59.032Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -511,7 +511,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
+        <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
         <lastmod>2018-06-21T07:09:59.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -519,7 +519,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
+        <loc>http://94275.cn/2015/12/03/html-call-native-app/</loc>
         <lastmod>2018-06-21T07:09:59.031Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -543,14 +543,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
-        <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -560,6 +552,22 @@
 
     <url>
         <loc>http://94275.cn/2014/12/03/mementopattern/</loc>
+        <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+        <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://94275.cn/2014/12/05/iteratorpattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -583,22 +591,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/12/05/iteratorpattern/</loc>
-        <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
-        <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -607,7 +599,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
+        <loc>http://94275.cn/2014/11/24/abstractfactorypattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -623,6 +615,14 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
+        <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -631,7 +631,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
+        <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -647,7 +647,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/11/21/factorymethodpattern/</loc>
+        <loc>http://94275.cn/2014/11/20/design-pattern-decorator/</loc>
         <lastmod>2018-06-21T07:09:59.028Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -655,7 +655,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/11/20/design-pattern-decorator/</loc>
+        <loc>http://94275.cn/2014/11/21/factorymethodpattern/</loc>
         <lastmod>2018-06-21T07:09:59.028Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -679,7 +679,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/10/19/inversion-of-control/</loc>
+        <loc>http://94275.cn/2014/10/15/butter-knife-injection/</loc>
         <lastmod>2018-06-21T07:09:59.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -687,7 +687,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/10/15/butter-knife-injection/</loc>
+        <loc>http://94275.cn/2014/10/19/inversion-of-control/</loc>
         <lastmod>2018-06-21T07:09:59.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -727,14 +727,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
-        <lastmod>2018-06-21T07:09:59.026Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2014/09/23/quick-build-apk/</loc>
         <lastmod>2018-06-21T07:09:59.026Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -759,6 +751,22 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+        <lastmod>2018-06-21T07:09:59.026Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
+        <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -775,14 +783,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/07/27/irregular-shapes-part-2/</loc>
-        <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -791,7 +791,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/08/02/irregular-shapes-part-4/</loc>
+        <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -799,7 +799,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
+        <loc>http://94275.cn/2014/08/02/irregular-shapes-part-4/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
