@@ -121,14 +121,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/%E6%94%B6%E9%9B%86%E9%9C%80%E6%B1%82/</loc>
+        <loc>http://94275.cn/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/%E5%BF%83%E7%90%86%E5%AD%A6/</loc>
+        <loc>http://94275.cn/tags/%E6%94%B6%E9%9B%86%E9%9C%80%E6%B1%82/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -212,13 +212,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/BottomNavigationView/</loc>
-        <lastmod>2019-02-28T08:35:04.581Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://94275.cn/tags/RxJava/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -226,14 +219,21 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/tags/%E5%BC%80%E6%BA%90%E5%BA%93/</loc>
-        <lastmod>2019-02-28T08:35:04.582Z</lastmod>
+        <loc>http://94275.cn/tags/BottomNavigationView/</loc>
+        <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://94275.cn/tags/LifeCycle/</loc>
+        <lastmod>2019-02-28T08:35:04.582Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://94275.cn/tags/%E5%BC%80%E6%BA%90%E5%BA%93/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
