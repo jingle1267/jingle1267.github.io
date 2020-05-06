@@ -7,8 +7,16 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2018/11/19/wxminiapp-canvas/</loc>
+        <lastmod>2020-05-06T09:18:10.736Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2019/11/20/fe-2008-2017/</loc>
-        <lastmod>2019-11-27T08:46:01.763Z</lastmod>
+        <lastmod>2020-05-06T09:13:35.796Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -127,7 +135,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/12/09/lifecycle/</loc>
+        <loc>http://94275.cn/2017/11/29/Common-Android-Open-Source-Project/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -135,7 +143,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/11/29/Common-Android-Open-Source-Project/</loc>
+        <loc>http://94275.cn/2017/12/09/lifecycle/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -159,7 +167,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/10/16/RxJava-Hello-World/</loc>
+        <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -167,7 +175,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2017/06/14/BottomNavigationView/</loc>
+        <loc>http://94275.cn/2017/10/16/RxJava-Hello-World/</loc>
         <lastmod>2019-02-28T08:35:04.581Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -271,7 +279,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
+        <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -279,7 +287,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
+        <loc>http://94275.cn/2016/10/06/psychologie-des-foules/</loc>
         <lastmod>2019-02-28T08:35:04.577Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -313,14 +321,6 @@
     <url>
         <loc>http://94275.cn/2018/04/17/git-flow/</loc>
         <lastmod>2019-02-01T16:33:50.884Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://94275.cn/2018/11/19/wxminiapp-canvas/</loc>
-        <lastmod>2018-11-19T08:39:39.982Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -511,6 +511,14 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2015/12/04/hexo-post-article/</loc>
+        <lastmod>2018-06-21T07:09:59.031Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2015/07/16/android-mutiple-channel-build/</loc>
         <lastmod>2018-06-21T07:09:59.031Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -527,14 +535,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2015/12/04/hexo-post-article/</loc>
-        <lastmod>2018-06-21T07:09:59.031Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -543,7 +543,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+        <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -551,7 +551,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
+        <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
         <lastmod>2018-06-21T07:09:59.030Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -599,6 +599,14 @@
     </url>
 
     <url>
+        <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
+        <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -615,7 +623,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
+        <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -624,14 +632,6 @@
 
     <url>
         <loc>http://94275.cn/2014/11/29/facadepattern/</loc>
-        <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://94275.cn/2014/11/28/templatemethodpattern/</loc>
         <lastmod>2018-06-21T07:09:59.029Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -687,14 +687,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/10/16/android-log/</loc>
-        <lastmod>2018-06-21T07:09:59.027Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>http://94275.cn/2014/10/19/inversion-of-control/</loc>
         <lastmod>2018-06-21T07:09:59.027Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -704,6 +696,14 @@
 
     <url>
         <loc>http://94275.cn/2014/10/25/eclipse-to-intellig-idea/</loc>
+        <lastmod>2018-06-21T07:09:59.027Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>http://94275.cn/2014/10/16/android-log/</loc>
         <lastmod>2018-06-21T07:09:59.027Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -759,7 +759,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
+        <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -767,7 +767,7 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
+        <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
         <lastmod>2018-06-21T07:09:59.025Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

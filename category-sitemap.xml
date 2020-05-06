@@ -119,14 +119,14 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/categories/Android-Architecture-Components/</loc>
+        <loc>http://94275.cn/categories/%E5%BC%80%E6%BA%90%E5%BA%93/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://94275.cn/categories/%E5%BC%80%E6%BA%90%E5%BA%93/</loc>
+        <loc>http://94275.cn/categories/Android-Architecture-Components/</loc>
         <lastmod>2019-02-28T08:35:04.582Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
@@ -154,13 +154,6 @@
     </url>
 
     <url>
-        <loc>http://94275.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
-        <lastmod>2019-11-27T08:22:36.343Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>http://94275.cn/categories/Spring/</loc>
         <lastmod>2019-11-27T08:28:09.431Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -177,6 +170,13 @@
     <url>
         <loc>http://94275.cn/categories/JavaScript/</loc>
         <lastmod>2019-11-27T08:37:00.795Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://94275.cn/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+        <lastmod>2020-05-06T09:18:10.736Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
