@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://94275.cn/about/index.html</loc>
+    
+    <lastmod>2020-08-04T01:09:57.600Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2018/11/19/wxminiapp-canvas/</loc>
     
     <lastmod>2020-05-06T09:18:10.736Z</lastmod>
@@ -65,13 +72,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/about/index.html</loc>
-    
-    <lastmod>2019-11-27T08:02:26.330Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2016/11/09/hexo-add-widget/</loc>
     
     <lastmod>2019-11-26T05:48:17.055Z</lastmod>
@@ -114,14 +114,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/shua/baiduihongqiqu2.html</loc>
+    <loc>http://94275.cn/shua/baiduihongqiqu1.html</loc>
     
     <lastmod>2019-02-28T08:35:04.621Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/shua/baiduihongqiqu1.html</loc>
+    <loc>http://94275.cn/shua/baiduihongqiqu2.html</loc>
     
     <lastmod>2019-02-28T08:35:04.621Z</lastmod>
     
@@ -156,14 +156,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2018/04/04/wx-mini-app-bug/</loc>
+    <loc>http://94275.cn/2018/01/10/weixin-app/</loc>
     
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2018/01/10/weixin-app/</loc>
+    <loc>http://94275.cn/2018/04/04/wx-mini-app-bug/</loc>
     
     <lastmod>2019-02-28T08:35:04.583Z</lastmod>
     
@@ -226,6 +226,13 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2017/01/09/react-hello-world/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2017/01/13/android-wifi-hotspot/</loc>
     
     <lastmod>2019-02-28T08:35:04.580Z</lastmod>
@@ -240,20 +247,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2017/01/09/react-hello-world/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.580Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2016/12/24/aop/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2016/12/20/Android-Things/</loc>
     
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
@@ -262,6 +255,13 @@
   
   <url>
     <loc>http://94275.cn/2016/11/24/repeat-sql-data/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.579Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2016/12/24/aop/</loc>
     
     <lastmod>2019-02-28T08:35:04.579Z</lastmod>
     
@@ -296,20 +296,6 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2016/10/06/read-influence/</loc>
-    
-    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2016/10/01/about-agility/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
@@ -317,7 +303,21 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2016/10/03/collect-requirements/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2016/10/12/SEO-keywords/</loc>
+    
+    <lastmod>2019-02-28T08:35:04.577Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2016/10/06/read-influence/</loc>
     
     <lastmod>2019-02-28T08:35:04.577Z</lastmod>
     
@@ -380,6 +380,13 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2016/04/12/Persuade/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2016/04/06/Android-N-Multi-Window/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
@@ -394,7 +401,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/04/12/Persuade/</loc>
+    <loc>http://94275.cn/2016/09/13/Command-Design-Pattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
@@ -402,13 +409,6 @@
   
   <url>
     <loc>http://94275.cn/2016/05/06/Fxck-GFW/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.034Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2016/09/13/Command-Design-Pattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.034Z</lastmod>
     
@@ -464,7 +464,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2015/12/23/Android-6-permission/</loc>
+    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
     
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     
@@ -485,7 +485,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2016/01/07/android-instrumentation/</loc>
+    <loc>http://94275.cn/2015/12/23/Android-6-permission/</loc>
     
     <lastmod>2018-06-21T07:09:59.032Z</lastmod>
     
@@ -527,21 +527,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2014/12/02/adapterpattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/11/30/builderpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -555,7 +548,7 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
+    <loc>http://94275.cn/2014/12/01/observerpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -563,6 +556,13 @@
   
   <url>
     <loc>http://94275.cn/2014/12/05/iteratorpattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.030Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/12/04/compositepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.030Z</lastmod>
     
@@ -583,6 +583,13 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2014/11/25/proxypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
@@ -591,13 +598,6 @@
   
   <url>
     <loc>http://94275.cn/2014/11/26/statepattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.029Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2014/11/27/prototypepattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.029Z</lastmod>
     
@@ -632,6 +632,13 @@
   </url>
   
   <url>
+    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://94275.cn/2014/11/21/factorymethodpattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
@@ -640,13 +647,6 @@
   
   <url>
     <loc>http://94275.cn/2014/11/22/simplefactorypattern/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.028Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2014/11/23/strategypattern/</loc>
     
     <lastmod>2018-06-21T07:09:59.028Z</lastmod>
     
@@ -695,14 +695,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
+    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/09/25/0-in-1-out-1-in-0-out/</loc>
+    <loc>http://94275.cn/2014/09/23/octopress-post-article/</loc>
     
     <lastmod>2018-06-21T07:09:59.026Z</lastmod>
     
@@ -723,21 +723,14 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
-    
-    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://94275.cn/2014/07/22/irregular-shapes-part-1/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/07/22/adb-install-to-mutiple-devices/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
@@ -751,14 +744,21 @@
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
+    <loc>http://94275.cn/2014/08/02/irregular-shapes-part-4/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://94275.cn/2014/08/02/irregular-shapes-part-4/</loc>
+    <loc>http://94275.cn/2014/07/22/Stay-hungry-stay-foolish/</loc>
+    
+    <lastmod>2018-06-21T07:09:59.025Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://94275.cn/2014/07/29/irregular-shapes-part-3/</loc>
     
     <lastmod>2018-06-21T07:09:59.025Z</lastmod>
     
